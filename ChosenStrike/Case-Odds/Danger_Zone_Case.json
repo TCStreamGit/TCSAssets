@@ -1,0 +1,2111 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T03:21:16Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "danger-zone-case",
+    "name": "Danger Zone Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://csgoskins.gg/containers/danger-zone-case",
+      "https://csgoskins.gg/containers/danger-zone-case/specials",
+      "https://csgoskins.gg/containers/danger-zone-case/specials?page=2",
+      "https://steamcommunity.com/market/listings/730/Danger%20Zone%20Case"
+    ],
+    "notes": [
+      "Regular Item Contents And Knife Pool Derived From CSGOSKINS.GG Listings For The Danger Zone Case.",
+      "Tier Odds Use Default Odds Provided By The Export Schema; Weights Are Split Equally Within Each Tier.",
+      "No Float Or Wear Modelling Is Included By Design."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "m4a4-magnesium",
+          "displayName": "M4A4 | Magnesium",
+          "category": "weapon_skin",
+          "weapon": "M4A4",
+          "skin": "Magnesium",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--m4a4-magnesium.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--m4a4-magnesium--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--m4a4-magnesium--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--m4a4-magnesium--04.png"
+          ]
+        },
+        {
+          "itemId": "glock-18-oxide-blaze",
+          "displayName": "Glock-18 | Oxide Blaze",
+          "category": "weapon_skin",
+          "weapon": "Glock-18",
+          "skin": "Oxide Blaze",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--glock-18-oxide-blaze.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--glock-18-oxide-blaze--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--glock-18-oxide-blaze--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--glock-18-oxide-blaze--04.png"
+          ]
+        },
+        {
+          "itemId": "mp9-modest-threat",
+          "displayName": "MP9 | Modest Threat",
+          "category": "weapon_skin",
+          "weapon": "MP9",
+          "skin": "Modest Threat",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--mp9-modest-threat.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--mp9-modest-threat--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--mp9-modest-threat--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--mp9-modest-threat--04.png"
+          ]
+        },
+        {
+          "itemId": "tec-9-fubar",
+          "displayName": "Tec-9 | Fubar",
+          "category": "weapon_skin",
+          "weapon": "Tec-9",
+          "skin": "Fubar",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--tec-9-fubar.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--tec-9-fubar--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--tec-9-fubar--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--tec-9-fubar--04.png"
+          ]
+        },
+        {
+          "itemId": "sg-553-danger-close",
+          "displayName": "SG 553 | Danger Close",
+          "category": "weapon_skin",
+          "weapon": "SG 553",
+          "skin": "Danger Close",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sg-553-danger-close.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sg-553-danger-close--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sg-553-danger-close--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sg-553-danger-close--04.png"
+          ]
+        },
+        {
+          "itemId": "nova-wood-fired",
+          "displayName": "Nova | Wood Fired",
+          "category": "weapon_skin",
+          "weapon": "Nova",
+          "skin": "Wood Fired",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--nova-wood-fired.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--nova-wood-fired--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--nova-wood-fired--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--nova-wood-fired--04.png"
+          ]
+        },
+        {
+          "itemId": "sawed-off-black-sand",
+          "displayName": "Sawed-Off | Black Sand",
+          "category": "weapon_skin",
+          "weapon": "Sawed-Off",
+          "skin": "Black Sand",
+          "variant": "None",
+          "rarity": "mil-spec-grade",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sawed-off-black-sand.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sawed-off-black-sand--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sawed-off-black-sand--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--mil-spec-grade--sawed-off-black-sand--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "usp-s-flashback",
+          "displayName": "USP-S | Flashback",
+          "category": "weapon_skin",
+          "weapon": "USP-S",
+          "skin": "Flashback",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--usp-s-flashback.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--usp-s-flashback--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--usp-s-flashback--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--usp-s-flashback--04.png"
+          ]
+        },
+        {
+          "itemId": "p250-nevermore",
+          "displayName": "P250 | Nevermore",
+          "category": "weapon_skin",
+          "weapon": "P250",
+          "skin": "Nevermore",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--p250-nevermore.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--p250-nevermore--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--p250-nevermore--03.png"
+          ]
+        },
+        {
+          "itemId": "galil-ar-signal",
+          "displayName": "Galil AR | Signal",
+          "category": "weapon_skin",
+          "weapon": "Galil AR",
+          "skin": "Signal",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--galil-ar-signal.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--galil-ar-signal--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--galil-ar-signal--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--galil-ar-signal--04.png"
+          ]
+        },
+        {
+          "itemId": "g3sg1-scavenger",
+          "displayName": "G3SG1 | Scavenger",
+          "category": "weapon_skin",
+          "weapon": "G3SG1",
+          "skin": "Scavenger",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--g3sg1-scavenger.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--g3sg1-scavenger--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--g3sg1-scavenger--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--g3sg1-scavenger--04.png"
+          ]
+        },
+        {
+          "itemId": "mac-10-pipe-down",
+          "displayName": "MAC-10 | Pipe Down",
+          "category": "weapon_skin",
+          "weapon": "MAC-10",
+          "skin": "Pipe Down",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--mac-10-pipe-down.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--mac-10-pipe-down--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--mac-10-pipe-down--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--restricted--mac-10-pipe-down--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "desert-eagle-mecha-industries",
+          "displayName": "Desert Eagle | Mecha Industries",
+          "category": "weapon_skin",
+          "weapon": "Desert Eagle",
+          "skin": "Mecha Industries",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--desert-eagle-mecha-industries.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--desert-eagle-mecha-industries--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--desert-eagle-mecha-industries--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--desert-eagle-mecha-industries--04.png"
+          ]
+        },
+        {
+          "itemId": "mp5-sd-phosphor",
+          "displayName": "MP5-SD | Phosphor",
+          "category": "weapon_skin",
+          "weapon": "MP5-SD",
+          "skin": "Phosphor",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--mp5-sd-phosphor.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--mp5-sd-phosphor--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--mp5-sd-phosphor--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--mp5-sd-phosphor--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-momentum",
+          "displayName": "UMP-45 | Momentum",
+          "category": "weapon_skin",
+          "weapon": "UMP-45",
+          "skin": "Momentum",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--ump-45-momentum.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--ump-45-momentum--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--ump-45-momentum--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--classified--ump-45-momentum--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "ak-47-asiimov",
+          "displayName": "AK-47 | Asiimov",
+          "category": "weapon_skin",
+          "weapon": "AK-47",
+          "skin": "Asiimov",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--ak-47-asiimov.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--ak-47-asiimov--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--ak-47-asiimov--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--ak-47-asiimov--04.png"
+          ]
+        },
+        {
+          "itemId": "awp-neo-noir",
+          "displayName": "AWP | Neo-Noir",
+          "category": "weapon_skin",
+          "weapon": "AWP",
+          "skin": "Neo-Noir",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--awp-neo-noir.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--awp-neo-noir--02.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--awp-neo-noir--03.png",
+            "Assets/Cases/Danger-Zone-Case/Weapons/danger-zone-case--covert--awp-neo-noir--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "danger-zone-case-knife-pool",
+      "name": "Danger Zone Case Rare Special Items",
+      "category": "knife_pool",
+      "sources": [
+        "https://csgoskins.gg/containers/danger-zone-case/specials",
+        "https://csgoskins.gg/containers/danger-zone-case/specials?page=2"
+      ],
+      "items": [
+        {
+          "itemId": "navaja-knife-blue-steel",
+          "displayName": "Navaja Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-blue-steel--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-blue-steel--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-blue-steel--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-boreal-forest",
+          "displayName": "Navaja Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-boreal-forest--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-boreal-forest--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-boreal-forest--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-case-hardened",
+          "displayName": "Navaja Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-case-hardened--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-case-hardened--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-case-hardened--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-crimson-web",
+          "displayName": "Navaja Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-crimson-web--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-crimson-web--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-crimson-web--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-fade",
+          "displayName": "Navaja Knife | Fade",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-fade--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-forest-ddpat",
+          "displayName": "Navaja Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-forest-ddpat--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-forest-ddpat--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-forest-ddpat--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-night-stripe",
+          "displayName": "Navaja Knife | Night Stripe",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Night Stripe",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-night-stripe.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-night-stripe--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-night-stripe--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-night-stripe--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-night-stripe--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-safari-mesh",
+          "displayName": "Navaja Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-safari-mesh--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-safari-mesh--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-safari-mesh--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-scorched",
+          "displayName": "Navaja Knife | Scorched",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-scorched--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-scorched--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-scorched--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-slaughter",
+          "displayName": "Navaja Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-slaughter--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-slaughter--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-stained",
+          "displayName": "Navaja Knife | Stained",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-stained--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-stained--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-stained--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-urban-masked",
+          "displayName": "Navaja Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-urban-masked--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-urban-masked--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-urban-masked--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-urban-masked--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-vanilla",
+          "displayName": "Navaja Knife | Vanilla",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--navaja-knife-vanilla--02.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-blue-steel",
+          "displayName": "Stiletto Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-blue-steel--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-blue-steel--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-blue-steel--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-boreal-forest",
+          "displayName": "Stiletto Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-boreal-forest--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-boreal-forest--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-boreal-forest--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-case-hardened",
+          "displayName": "Stiletto Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-case-hardened--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-case-hardened--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-case-hardened--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-crimson-web",
+          "displayName": "Stiletto Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-crimson-web--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-crimson-web--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-crimson-web--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-fade",
+          "displayName": "Stiletto Knife | Fade",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-fade--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-forest-ddpat",
+          "displayName": "Stiletto Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-forest-ddpat--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-forest-ddpat--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-forest-ddpat--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-night-stripe",
+          "displayName": "Stiletto Knife | Night Stripe",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Night Stripe",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-night-stripe.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-night-stripe--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-night-stripe--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-night-stripe--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-night-stripe--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-safari-mesh",
+          "displayName": "Stiletto Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-safari-mesh--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-safari-mesh--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-safari-mesh--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-scorched",
+          "displayName": "Stiletto Knife | Scorched",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-scorched--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-scorched--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-scorched--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-slaughter",
+          "displayName": "Stiletto Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-slaughter--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-slaughter--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-stained",
+          "displayName": "Stiletto Knife | Stained",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-stained--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-stained--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-stained--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-urban-masked",
+          "displayName": "Stiletto Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-urban-masked--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-urban-masked--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-urban-masked--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-urban-masked--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-vanilla",
+          "displayName": "Stiletto Knife | Vanilla",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--stiletto-knife-vanilla--02.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-blue-steel",
+          "displayName": "Talon Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-blue-steel--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-blue-steel--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-blue-steel--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-boreal-forest",
+          "displayName": "Talon Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-boreal-forest--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-boreal-forest--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-boreal-forest--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-case-hardened",
+          "displayName": "Talon Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-case-hardened--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-case-hardened--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-case-hardened--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-crimson-web",
+          "displayName": "Talon Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-crimson-web--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-crimson-web--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-crimson-web--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-fade",
+          "displayName": "Talon Knife | Fade",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-fade--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-forest-ddpat",
+          "displayName": "Talon Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-forest-ddpat--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-forest-ddpat--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-forest-ddpat--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-night-stripe",
+          "displayName": "Talon Knife | Night Stripe",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Night Stripe",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-night-stripe.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-night-stripe--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-night-stripe--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-night-stripe--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-night-stripe--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-safari-mesh",
+          "displayName": "Talon Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-safari-mesh--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-safari-mesh--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-safari-mesh--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-scorched",
+          "displayName": "Talon Knife | Scorched",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-scorched--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-scorched--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-scorched--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-slaughter",
+          "displayName": "Talon Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-slaughter--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-slaughter--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-stained",
+          "displayName": "Talon Knife | Stained",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-stained--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-stained--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-stained--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-urban-masked",
+          "displayName": "Talon Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-urban-masked--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-urban-masked--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-urban-masked--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-urban-masked--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-vanilla",
+          "displayName": "Talon Knife | Vanilla",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--talon-knife-vanilla--02.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-blue-steel",
+          "displayName": "Ursus Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-blue-steel--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-blue-steel--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-blue-steel--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-boreal-forest",
+          "displayName": "Ursus Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-boreal-forest--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-boreal-forest--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-boreal-forest--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-case-hardened",
+          "displayName": "Ursus Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-case-hardened--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-case-hardened--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-case-hardened--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-crimson-web",
+          "displayName": "Ursus Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-crimson-web--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-crimson-web--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-crimson-web--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-fade",
+          "displayName": "Ursus Knife | Fade",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-fade--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-forest-ddpat",
+          "displayName": "Ursus Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-forest-ddpat--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-forest-ddpat--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-forest-ddpat--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-night-stripe",
+          "displayName": "Ursus Knife | Night Stripe",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Night Stripe",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-night-stripe.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-night-stripe--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-night-stripe--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-night-stripe--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-night-stripe--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-safari-mesh",
+          "displayName": "Ursus Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-safari-mesh--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-safari-mesh--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-safari-mesh--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-scorched",
+          "displayName": "Ursus Knife | Scorched",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-scorched--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-scorched--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-scorched--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-slaughter",
+          "displayName": "Ursus Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-slaughter--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-slaughter--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-stained",
+          "displayName": "Ursus Knife | Stained",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-stained--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-stained--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-stained--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-urban-masked",
+          "displayName": "Ursus Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-urban-masked--02.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-urban-masked--03.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-urban-masked--04.png",
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-urban-masked--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-vanilla",
+          "displayName": "Ursus Knife | Vanilla",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special-item",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Drop In The Danger Zone Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 50000000,
+            "nonStatTrak": 45000000,
+            "statTrak": 5000000
+          },
+          "probs": {
+            "base": "0.000050000000000000",
+            "nonStatTrak": "0.000045000000000000",
+            "statTrak": "0.000005000000000000"
+          },
+          "image": "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Danger-Zone-Case/Knives/danger-zone-case--rare-special-item--ursus-knife-vanilla--02.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Danger-Zone-Case/Icons/danger-zone-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 7,
+      "purple": 5,
+      "pink": 3,
+      "red": 2,
+      "gold": 52
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Tier Weights Use Default Odds And Equal Item Distribution Within Each Tier.",
+      "StatTrak Split Uses A Default 10% Rate Per Eligible Item (Rounded To Nearest Integer Weight)."
+    ]
+  }
+}

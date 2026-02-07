@@ -1,0 +1,867 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-17T00:00:00Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "operation-breakout-weapon-case",
+    "name": "Operation Breakout Weapon Case",
+    "caseType": "operation_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://counterstrike.fandom.com/wiki/Operation_Breakout_Weapon_Case",
+      "https://csgoskins.gg/containers/operation-breakout-weapon-case",
+      "https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case"
+    ],
+    "notes": [
+      "Rarity Tier Odds Use Valve’s Official Published Weapon Case Odds (Mil-Spec 79.92%, Restricted 15.98%, Classified 3.2%, Covert 0.64%, Gold 0.26%); Item Odds Are Assumed Equal Within Each Tier.",
+      "Rare Special Items For This Case Are The Butterfly Knife With Original Finishes (13 Outcomes)."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "ssg-08-abyss",
+          "displayName": "SSG 08 | Abyss",
+          "category": "weapon",
+          "weapon": "SSG 08",
+          "skin": "Abyss",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ssg-08-abyss.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ssg-08-abyss--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ssg-08-abyss--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ssg-08-abyss--04.png"
+          ]
+        },
+        {
+          "itemId": "mp7-urban-hazard",
+          "displayName": "MP7 | Urban Hazard",
+          "category": "weapon",
+          "weapon": "MP7",
+          "skin": "Urban Hazard",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--mp7-urban-hazard.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--mp7-urban-hazard--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--mp7-urban-hazard--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--mp7-urban-hazard--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-labyrinth",
+          "displayName": "UMP-45 | Labyrinth",
+          "category": "weapon",
+          "weapon": "UMP-45",
+          "skin": "Labyrinth",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ump-45-labyrinth.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ump-45-labyrinth--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--ump-45-labyrinth--03.png"
+          ]
+        },
+        {
+          "itemId": "p2000-ivory",
+          "displayName": "P2000 | Ivory",
+          "category": "weapon",
+          "weapon": "P2000",
+          "skin": "Ivory",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--p2000-ivory.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--p2000-ivory--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--p2000-ivory--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--p2000-ivory--04.png"
+          ]
+        },
+        {
+          "itemId": "negev-desert-strike",
+          "displayName": "Negev | Desert-Strike",
+          "category": "weapon",
+          "weapon": "Negev",
+          "skin": "Desert-Strike",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--negev-desert-strike.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--negev-desert-strike--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--negev-desert-strike--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--mil-spec--negev-desert-strike--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "p250-supernova",
+          "displayName": "P250 | Supernova",
+          "category": "weapon",
+          "weapon": "P250",
+          "skin": "Supernova",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--p250-supernova.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--p250-supernova--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--p250-supernova--03.png"
+          ]
+        },
+        {
+          "itemId": "pp-bizon-osiris",
+          "displayName": "PP-Bizon | Osiris",
+          "category": "weapon",
+          "weapon": "PP-Bizon",
+          "skin": "Osiris",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--pp-bizon-osiris.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--pp-bizon-osiris--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--pp-bizon-osiris--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--pp-bizon-osiris--04.png"
+          ]
+        },
+        {
+          "itemId": "cz75-auto-tigris",
+          "displayName": "CZ75-Auto | Tigris",
+          "category": "weapon",
+          "weapon": "CZ75-Auto",
+          "skin": "Tigris",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--cz75-auto-tigris.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--cz75-auto-tigris--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--cz75-auto-tigris--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--cz75-auto-tigris--04.png"
+          ]
+        },
+        {
+          "itemId": "nova-koi",
+          "displayName": "Nova | Koi",
+          "category": "weapon",
+          "weapon": "Nova",
+          "skin": "Koi",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--nova-koi.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--nova-koi--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--restricted--nova-koi--03.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "glock-18-water-elemental",
+          "displayName": "Glock-18 | Water Elemental",
+          "category": "weapon",
+          "weapon": "Glock-18",
+          "skin": "Water Elemental",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--glock-18-water-elemental.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--glock-18-water-elemental--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--glock-18-water-elemental--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--glock-18-water-elemental--04.png"
+          ]
+        },
+        {
+          "itemId": "desert-eagle-conspiracy",
+          "displayName": "Desert Eagle | Conspiracy",
+          "category": "weapon",
+          "weapon": "Desert Eagle",
+          "skin": "Conspiracy",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--desert-eagle-conspiracy.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--desert-eagle-conspiracy--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--desert-eagle-conspiracy--03.png"
+          ]
+        },
+        {
+          "itemId": "five-seven-fowl-play",
+          "displayName": "Five-SeveN | Fowl Play",
+          "category": "weapon",
+          "weapon": "Five-SeveN",
+          "skin": "Fowl Play",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--five-seven-fowl-play.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--five-seven-fowl-play--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--five-seven-fowl-play--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--classified--five-seven-fowl-play--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "p90-asiimov",
+          "displayName": "P90 | Asiimov",
+          "category": "weapon",
+          "weapon": "P90",
+          "skin": "Asiimov",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--p90-asiimov.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--p90-asiimov--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--p90-asiimov--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--p90-asiimov--04.png"
+          ]
+        },
+        {
+          "itemId": "m4a1-s-cyrex",
+          "displayName": "M4A1-S | Cyrex",
+          "category": "weapon",
+          "weapon": "M4A1-S",
+          "skin": "Cyrex",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop From This Case In Multiple Public Container Databases.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--m4a1-s-cyrex.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--m4a1-s-cyrex--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--m4a1-s-cyrex--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Weapons/operation-breakout-weapon-case--covert--m4a1-s-cyrex--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "operation-breakout-weapon-case-knife-pool",
+      "name": "Operation Breakout Rare Special Items",
+      "category": "knife_pool",
+      "sources": [
+        "https://counterstrike.fandom.com/wiki/Operation_Breakout_Weapon_Case",
+        "https://csgoskins.gg/containers/operation-breakout-weapon-case/specials"
+      ],
+      "items": [
+        {
+          "itemId": "butterfly-knife-vanilla",
+          "displayName": "★ Butterfly Knife",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-vanilla--02.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-blue-steel",
+          "displayName": "★ Butterfly Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-blue-steel--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-blue-steel--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-blue-steel--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-boreal-forest",
+          "displayName": "★ Butterfly Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-boreal-forest--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-boreal-forest--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-boreal-forest--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-case-hardened",
+          "displayName": "★ Butterfly Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-case-hardened--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-case-hardened--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-case-hardened--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-crimson-web",
+          "displayName": "★ Butterfly Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-crimson-web--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-crimson-web--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-crimson-web--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-fade",
+          "displayName": "★ Butterfly Knife | Fade",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-fade--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-forest-ddpat",
+          "displayName": "★ Butterfly Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-forest-ddpat--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-forest-ddpat--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-forest-ddpat--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-night",
+          "displayName": "★ Butterfly Knife | Night",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Night",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-night.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-night--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-night--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-night--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-night--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-safari-mesh",
+          "displayName": "★ Butterfly Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-safari-mesh--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-safari-mesh--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-safari-mesh--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-scorched",
+          "displayName": "★ Butterfly Knife | Scorched",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-scorched--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-scorched--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-scorched--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-slaughter",
+          "displayName": "★ Butterfly Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-slaughter--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-slaughter--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-stained",
+          "displayName": "★ Butterfly Knife | Stained",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-stained--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-stained--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-stained--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "butterfly-knife-urban-masked",
+          "displayName": "★ Butterfly Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Butterfly Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item For This Case (Butterfly Knife With Original Finishes).",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-urban-masked--02.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-urban-masked--03.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-urban-masked--04.png",
+            "Assets/Cases/Operation-Breakout-Weapon-Case/Knives/operation-breakout-weapon-case--rare-special--butterfly-knife-urban-masked--05.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Operation-Breakout-Weapon-Case/Icons/operation-breakout-weapon-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 5,
+      "purple": 4,
+      "pink": 3,
+      "red": 2,
+      "gold": 13
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Equal-Weight Assumption Applied Within Each Rarity Tier To Allocate Tier Odds Across Items.",
+      "StatTrak Split Uses A 10% Rate Per Item (Rounded To Nearest Integer, Half-Up)."
+    ]
+  }
+}

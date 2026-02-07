@@ -1,0 +1,2465 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T03:14:39Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "chroma-case",
+    "name": "Chroma Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://totalcsgo.com/skins/cases/chroma-case",
+      "https://counterstrike.fandom.com/wiki/Chroma_Case",
+      "https://csgoskins.gg/containers/chroma-case/specials"
+    ],
+    "notes": [
+      "Tier Odds Use Default Community Case Odds. Weapon Contents From Public Drop Tables. Rare Special Items Model Chroma Knife Finishes With Doppler Phases Listed Separately. No Float Or Wear Modelling."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "glock-18-catacombs",
+          "displayName": "Glock-18 | Catacombs",
+          "category": "weapon",
+          "weapon": "Glock-18",
+          "skin": "Catacombs",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--glock-18-catacombs.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--glock-18-catacombs--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--glock-18-catacombs--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--glock-18-catacombs--04.png"
+          ]
+        },
+        {
+          "itemId": "m249-system-lock",
+          "displayName": "M249 | System Lock",
+          "category": "weapon",
+          "weapon": "M249",
+          "skin": "System Lock",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--m249-system-lock.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--m249-system-lock--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--m249-system-lock--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--m249-system-lock--04.png"
+          ]
+        },
+        {
+          "itemId": "mp9-deadly-poison",
+          "displayName": "MP9 | Deadly Poison",
+          "category": "weapon",
+          "weapon": "MP9",
+          "skin": "Deadly Poison",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--mp9-deadly-poison.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--mp9-deadly-poison--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--mp9-deadly-poison--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--mp9-deadly-poison--04.png"
+          ]
+        },
+        {
+          "itemId": "scar-20-grotto",
+          "displayName": "SCAR-20 | Grotto",
+          "category": "weapon",
+          "weapon": "SCAR-20",
+          "skin": "Grotto",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--scar-20-grotto.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--scar-20-grotto--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--scar-20-grotto--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--scar-20-grotto--04.png"
+          ]
+        },
+        {
+          "itemId": "xm1014-quicksilver",
+          "displayName": "XM1014 | Quicksilver",
+          "category": "weapon",
+          "weapon": "XM1014",
+          "skin": "Quicksilver",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 143856000000,
+            "statTrak": 15984000000
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.143856000000000000",
+            "statTrak": "0.015984000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--xm1014-quicksilver.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--xm1014-quicksilver--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--xm1014-quicksilver--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--mil-spec--xm1014-quicksilver--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "dual-berettas-urban-shock",
+          "displayName": "Dual Berettas | Urban Shock",
+          "category": "weapon",
+          "weapon": "Dual Berettas",
+          "skin": "Urban Shock",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--dual-berettas-urban-shock.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--dual-berettas-urban-shock--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--dual-berettas-urban-shock--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--dual-berettas-urban-shock--04.png"
+          ]
+        },
+        {
+          "itemId": "desert-eagle-naga",
+          "displayName": "Desert Eagle | Naga",
+          "category": "weapon",
+          "weapon": "Desert Eagle",
+          "skin": "Naga",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--desert-eagle-naga.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--desert-eagle-naga--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--desert-eagle-naga--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--desert-eagle-naga--04.png"
+          ]
+        },
+        {
+          "itemId": "mac-10-malachite",
+          "displayName": "MAC-10 | Malachite",
+          "category": "weapon",
+          "weapon": "MAC-10",
+          "skin": "Malachite",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--mac-10-malachite.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--mac-10-malachite--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--mac-10-malachite--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--mac-10-malachite--04.png"
+          ]
+        },
+        {
+          "itemId": "sawed-off-serenity",
+          "displayName": "Sawed-Off | Serenity",
+          "category": "weapon",
+          "weapon": "Sawed-Off",
+          "skin": "Serenity",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 35955000000,
+            "statTrak": 3995000000
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.035955000000000000",
+            "statTrak": "0.003995000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--sawed-off-serenity.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--sawed-off-serenity--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--sawed-off-serenity--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--restricted--sawed-off-serenity--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "ak-47-cartel",
+          "displayName": "AK-47 | Cartel",
+          "category": "weapon",
+          "weapon": "AK-47",
+          "skin": "Cartel",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--ak-47-cartel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--ak-47-cartel--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--ak-47-cartel--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--ak-47-cartel--04.png"
+          ]
+        },
+        {
+          "itemId": "m4a4-dragon-king",
+          "displayName": "M4A4 | Dragon King",
+          "category": "weapon",
+          "weapon": "M4A4",
+          "skin": "Dragon King",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--m4a4-dragon-king.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--m4a4-dragon-king--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--m4a4-dragon-king--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--m4a4-dragon-king--04.png"
+          ]
+        },
+        {
+          "itemId": "p250-muertos",
+          "displayName": "P250 | Muertos",
+          "category": "weapon",
+          "weapon": "P250",
+          "skin": "Muertos",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666666
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666666000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--p250-muertos.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--p250-muertos--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--p250-muertos--03.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--classified--p250-muertos--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "awp-man-o-war",
+          "displayName": "AWP | Man-o'-war",
+          "category": "weapon",
+          "weapon": "AWP",
+          "skin": "Man-o'-war",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--awp-man-o-war.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--awp-man-o-war--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--awp-man-o-war--03.png"
+          ]
+        },
+        {
+          "itemId": "galil-ar-chatterbox",
+          "displayName": "Galil AR | Chatterbox",
+          "category": "weapon",
+          "weapon": "Galil AR",
+          "skin": "Chatterbox",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Public Case Drop Tables.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--galil-ar-chatterbox.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--galil-ar-chatterbox--02.png",
+            "Assets/Cases/Chroma-Case/Weapons/chroma-case--covert--galil-ar-chatterbox--03.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "chroma-case-knife-pool",
+      "name": "Chroma Case Rare Special Items",
+      "category": "knife_pool",
+      "sources": [
+        "https://counterstrike.fandom.com/wiki/Chroma_Case",
+        "https://csgoskins.gg/containers/chroma-case/specials",
+        "https://wiki.cs.money/cases/chroma-case/knives"
+      ],
+      "items": [
+        {
+          "itemId": "bayonet-doppler-phase-1",
+          "displayName": "★ Bayonet | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-1--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-phase-2",
+          "displayName": "★ Bayonet | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-2--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-phase-3",
+          "displayName": "★ Bayonet | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-3--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-phase-4",
+          "displayName": "★ Bayonet | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-phase-4--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-ruby",
+          "displayName": "★ Bayonet | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-ruby--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-sapphire",
+          "displayName": "★ Bayonet | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-sapphire--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-doppler-black-pearl",
+          "displayName": "★ Bayonet | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-doppler-black-pearl--09.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-damascus-steel",
+          "displayName": "★ Bayonet | Damascus Steel",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-damascus-steel--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-damascus-steel--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-damascus-steel--04.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-marble-fade",
+          "displayName": "★ Bayonet | Marble Fade",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-marble-fade--02.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-tiger-tooth",
+          "displayName": "★ Bayonet | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-tiger-tooth--02.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-rust-coat",
+          "displayName": "★ Bayonet | Rust Coat",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-rust-coat--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-rust-coat--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "bayonet-ultraviolet",
+          "displayName": "★ Bayonet | Ultraviolet",
+          "category": "knife",
+          "weapon": "Bayonet",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-ultraviolet--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-ultraviolet--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--bayonet-ultraviolet--04.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-phase-1",
+          "displayName": "★ Flip Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-1--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-phase-2",
+          "displayName": "★ Flip Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-2--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-phase-3",
+          "displayName": "★ Flip Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-3--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-phase-4",
+          "displayName": "★ Flip Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-phase-4--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-ruby",
+          "displayName": "★ Flip Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-ruby--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-sapphire",
+          "displayName": "★ Flip Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-sapphire--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-doppler-black-pearl",
+          "displayName": "★ Flip Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-doppler-black-pearl--09.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-damascus-steel",
+          "displayName": "★ Flip Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-damascus-steel--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-damascus-steel--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-damascus-steel--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-marble-fade",
+          "displayName": "★ Flip Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-marble-fade--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-tiger-tooth",
+          "displayName": "★ Flip Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-tiger-tooth--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-rust-coat",
+          "displayName": "★ Flip Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-rust-coat--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-rust-coat--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "flip-knife-ultraviolet",
+          "displayName": "★ Flip Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Flip Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333334,
+            "nonStatTrak": 39000001,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333334000000",
+            "nonStatTrak": "0.000039000001000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-ultraviolet--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-ultraviolet--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-ultraviolet--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--flip-knife-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-phase-1",
+          "displayName": "★ Gut Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-1--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-phase-2",
+          "displayName": "★ Gut Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-2--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-phase-3",
+          "displayName": "★ Gut Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-3--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-phase-4",
+          "displayName": "★ Gut Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-phase-4--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-ruby",
+          "displayName": "★ Gut Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-ruby--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-sapphire",
+          "displayName": "★ Gut Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-sapphire--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-doppler-black-pearl",
+          "displayName": "★ Gut Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-doppler-black-pearl--10.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-damascus-steel",
+          "displayName": "★ Gut Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-damascus-steel--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-damascus-steel--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-damascus-steel--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-marble-fade",
+          "displayName": "★ Gut Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-marble-fade--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-tiger-tooth",
+          "displayName": "★ Gut Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-tiger-tooth--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-rust-coat",
+          "displayName": "★ Gut Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-rust-coat--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-rust-coat--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "gut-knife-ultraviolet",
+          "displayName": "★ Gut Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Gut Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-ultraviolet--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-ultraviolet--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-ultraviolet--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--gut-knife-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-phase-1",
+          "displayName": "★ Karambit | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-1--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-phase-2",
+          "displayName": "★ Karambit | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-2--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-phase-3",
+          "displayName": "★ Karambit | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-3--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-phase-4",
+          "displayName": "★ Karambit | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-phase-4--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-ruby",
+          "displayName": "★ Karambit | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-ruby--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-sapphire",
+          "displayName": "★ Karambit | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-sapphire--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-doppler-black-pearl",
+          "displayName": "★ Karambit | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-doppler-black-pearl--10.png"
+          ]
+        },
+        {
+          "itemId": "karambit-damascus-steel",
+          "displayName": "★ Karambit | Damascus Steel",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-damascus-steel--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-damascus-steel--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-damascus-steel--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "karambit-marble-fade",
+          "displayName": "★ Karambit | Marble Fade",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-marble-fade--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "karambit-tiger-tooth",
+          "displayName": "★ Karambit | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-tiger-tooth--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "karambit-rust-coat",
+          "displayName": "★ Karambit | Rust Coat",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-rust-coat--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-rust-coat--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "karambit-ultraviolet",
+          "displayName": "★ Karambit | Ultraviolet",
+          "category": "knife",
+          "weapon": "Karambit",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-ultraviolet--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-ultraviolet--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-ultraviolet--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--karambit-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-phase-1",
+          "displayName": "★ M9 Bayonet | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-1--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-phase-2",
+          "displayName": "★ M9 Bayonet | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-2--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-phase-3",
+          "displayName": "★ M9 Bayonet | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-3--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-phase-4",
+          "displayName": "★ M9 Bayonet | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-phase-4--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-ruby",
+          "displayName": "★ M9 Bayonet | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-ruby--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-sapphire",
+          "displayName": "★ M9 Bayonet | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-sapphire--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-doppler-black-pearl",
+          "displayName": "★ M9 Bayonet | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--05.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--06.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--07.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--08.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--09.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--10.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--11.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--12.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--13.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--14.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--15.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--16.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-doppler-black-pearl--17.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-damascus-steel",
+          "displayName": "★ M9 Bayonet | Damascus Steel",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-damascus-steel--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-damascus-steel--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-damascus-steel--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-marble-fade",
+          "displayName": "★ M9 Bayonet | Marble Fade",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-marble-fade--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-tiger-tooth",
+          "displayName": "★ M9 Bayonet | Tiger Tooth",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-tiger-tooth--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-rust-coat",
+          "displayName": "★ M9 Bayonet | Rust Coat",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-rust-coat--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-rust-coat--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "m9-bayonet-ultraviolet",
+          "displayName": "★ M9 Bayonet | Ultraviolet",
+          "category": "knife",
+          "weapon": "M9 Bayonet",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Confirmed In Chroma Case Rare Special Item Lists.",
+          "weights": {
+            "base": 43333333,
+            "nonStatTrak": 39000000,
+            "statTrak": 4333333
+          },
+          "probs": {
+            "base": "0.000043333333000000",
+            "nonStatTrak": "0.000039000000000000",
+            "statTrak": "0.000004333333000000"
+          },
+          "image": "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-ultraviolet--02.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-ultraviolet--03.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-ultraviolet--04.png",
+            "Assets/Cases/Chroma-Case/Knives/chroma-case--extraordinary--m9-bayonet-ultraviolet--05.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Chroma-Case/Icons/chroma-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 5,
+      "purple": 4,
+      "pink": 3,
+      "red": 2,
+      "gold": 60
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Doppler Outcomes Are Expanded Into Phase/Gem Variants For Simulator Use; Some Marketplaces List Doppler As A Single Skin With Pattern-Determined Phase."
+    ]
+  }
+}

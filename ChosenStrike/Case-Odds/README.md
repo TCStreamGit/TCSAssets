@@ -1,0 +1,162 @@
+# Case-Odds
+## Path Rules
+- Never use `/home/nike/Streaming/Github` or `Z:\home\nike\Streaming\Github` (backup only).
+- Use runtime paths under `/home/nike/Streaming` or `Z:\home\nike\Streaming`.
+- See `MAP.md` at the repo root for the full runtime mapping and missing file checklist.
+
+
+Case definitions and odds JSON used by pricing and overlays.
+
+Locations:
+- Windows (runtime): Z:\home\nike\Streaming\ChosenStrike\Case-Odds
+- Debian (runtime): /home/nike/Streaming/ChosenStrike/Case-Odds
+
+Contents:
+- File: Antwerp_2022_Ancient_Souvenir_Package.json
+- File: Antwerp_2022_Dust_II_Souvenir_Package.json
+- File: Antwerp_2022_Inferno_Souvenir_Package.json
+- File: Antwerp_2022_Nuke_Souvenir_Package.json
+- File: Antwerp_2022_Vertigo_Souvenir_Package.json
+- File: Anubis_Collection_Package.json
+- File: Atlanta_2017_Cache_Souvenir_Package.json
+- File: Atlanta_2017_Cobblestone_Souvenir_Package.json
+- File: Atlanta_2017_Dust_II_Souvenir_Package.json
+- File: Atlanta_2017_Mirage_Souvenir_Package.json
+- File: Atlanta_2017_Nuke_Souvenir_Package.json
+- File: Atlanta_2017_Overpass_Souvenir_Package.json
+- File: Atlanta_2017_Train_Souvenir_Package.json
+- File: Austin_2025_Dust_II_Souvenir_Package.json
+- File: Austin_2025_Inferno_Souvenir_Package.json
+- File: Austin_2025_Train_Souvenir_Package.json
+- File: Berlin_2019_Dust_II_Souvenir_Package.json
+- File: Berlin_2019_Inferno_Souvenir_Package.json
+- File: Berlin_2019_Mirage_Souvenir_Package.json
+- File: Berlin_2019_Nuke_Souvenir_Package.json
+- File: Berlin_2019_Overpass_Souvenir_Package.json
+- File: Berlin_2019_Train_Souvenir_Package.json
+- File: Berlin_2019_Vertigo_Souvenir_Package.json
+- File: Boston_2018_Cache_Souvenir_Package.json
+- File: Boston_2018_Cobblestone_Souvenir_Package.json
+- File: Boston_2018_Mirage_Souvenir_Package.json
+- File: Boston_2018_Nuke_Souvenir_Package.json
+- File: Boston_2018_Overpass_Souvenir_Package.json
+- File: Boston_2018_Train_Souvenir_Package.json
+- File: Budapest_2025_Ancient_Souvenir_Package.json
+- File: Budapest_2025_Dust_II_Souvenir_Package.json
+- File: Budapest_2025_Inferno_Souvenir_Package.json
+- File: Budapest_2025_Mirage_Souvenir_Package.json
+- File: Budapest_2025_Nuke_Souvenir_Package.json
+- File: Budapest_2025_Overpass_Souvenir_Package.json
+- File: Chroma_2_Case.json
+- File: Chroma_3_Case.json
+- File: Chroma_Case.json
+- File: Clutch_Case.json
+- File: Cologne_2016_Cache_Souvenir_Package.json
+- File: Cologne_2016_Cobblestone_Souvenir_Package.json
+- File: Cologne_2016_Nuke_Souvenir_Package.json
+- File: Cologne_2016_Train_Souvenir_Package.json
+- File: Copenhagen_2024_Ancient_Souvenir_Package.json
+- File: Copenhagen_2024_Anubis_Souvenir_Package.json
+- File: Copenhagen_2024_Inferno_Souvenir_Package.json
+- File: Copenhagen_2024_Overpass_Souvenir_Package.json
+- File: CS_GO_Weapon_Case_2.json
+- File: CS_GO_Weapon_Case_3.json
+- File: CS_GO_Weapon_Case.json
+- File: CS20_Case.json
+- File: Danger_Zone_Case.json
+- File: DreamHack_2013_Souvenir_Package.json
+- File: DreamHack_2014_Dust_II_Souvenir_Package.json
+- File: DreamHack_Cluj_Napoca_2015_Overpass_Souvenir_Package.json
+- File: Dreams_Nightmares_Case.json
+- File: EMS_One_2014_Souvenir_Package.json
+- File: ESL_One_Cologne_2014_Cobblestone_Souvenir_Package.json
+- File: ESL_One_Cologne_2015_Cobblestone_Souvenir_Package.json
+- File: ESL_One_Katowice_2015_Cache_Souvenir_Package.json
+- File: ESL_One_Katowice_2015_Cobblestone_Souvenir_Package.json
+- File: ESL_One_Katowice_2015_Dust_II_Souvenir_Package.json
+- File: ESL_One_Katowice_2015_Mirage_Souvenir_Package.json
+- File: eSports_2013_Case.json
+- File: eSports_2013_Winter_Case.json
+- File: eSports_2014_Summer_Case.json
+- File: Falchion_Case.json
+- File: Fever_Case.json
+- File: Fracture_Case.json
+- File: Gallery_Case.json
+- File: Gamma_2_Case.json
+- File: Gamma_Case.json
+- File: Glove_Case.json
+- File: Horizon_Case.json
+- File: Huntsman_Weapon_Case.json
+- File: index.json
+- File: Katowice_2019_Cache_Souvenir_Package.json
+- File: Katowice_2019_Dust_II_Souvenir_Package.json
+- File: Katowice_2019_Inferno_Souvenir_Package.json
+- File: Katowice_2019_Mirage_Souvenir_Package.json
+- File: Katowice_2019_Nuke_Souvenir_Package.json
+- File: Katowice_2019_Overpass_Souvenir_Package.json
+- File: Katowice_2019_Train_Souvenir_Package.json
+- File: Kilowatt_Case.json
+- File: Krakow_2017_Cache_Souvenir_Package.json
+- File: Krakow_2017_Cobblestone_Souvenir_Package.json
+- File: Krakow_2017_Inferno_Souvenir_Package.json
+- File: Krakow_2017_Mirage_Souvenir_Package.json
+- File: Krakow_2017_Nuke_Souvenir_Package.json
+- File: Krakow_2017_Overpass_Souvenir_Package.json
+- File: Krakow_2017_Train_Souvenir_Package.json
+- File: London_2018_Cache_Souvenir_Package.json
+- File: London_2018_Dust_II_Souvenir_Package.json
+- File: London_2018_Inferno_Souvenir_Package.json
+- File: London_2018_Mirage_Souvenir_Package.json
+- File: London_2018_Nuke_Souvenir_Package.json
+- File: London_2018_Overpass_Souvenir_Package.json
+- File: London_2018_Train_Souvenir_Package.json
+- File: MLG_Columbus_2016_Cache_Souvenir_Package.json
+- File: MLG_Columbus_2016_Inferno_Souvenir_Package.json
+- File: MLG_Columbus_2016_Mirage_Souvenir_Package.json
+- File: Operation_Bravo_Case.json
+- File: Operation_Breakout_Weapon_Case.json
+- File: Operation_Broken_Fang_Case.json
+- File: Operation_Hydra_Case.json
+- File: Operation_Phoenix_Weapon_Case.json
+- File: Operation_Riptide_Case.json
+- File: Operation_Shattered_Web_Case.json
+- File: Operation_Vanguard_Weapon_Case.json
+- File: Operation_Wildfire_Case.json
+- File: Paris_2023_Ancient_Souvenir_Package.json
+- File: Paris_2023_Anubis_Souvenir_Package.json
+- File: Paris_2023_Inferno_Souvenir_Package.json
+- File: Paris_2023_Mirage_Souvenir_Package.json
+- File: Paris_2023_Nuke_Souvenir_Package.json
+- File: Paris_2023_Overpass_Souvenir_Package.json
+- File: Paris_2023_Vertigo_Souvenir_Package.json
+- File: Prisma_2_Case.json
+- File: Prisma_Case.json
+- File: Recoil_Case.json
+- File: Revolution_Case.json
+- File: Revolver_Case.json
+- File: Rio_2022_Dust_II_Souvenir_Package.json
+- File: Rio_2022_Mirage_Souvenir_Package.json
+- File: Rio_2022_Vertigo_Souvenir_Package.json
+- File: Sealed_Genesis_Terminal_Case.json
+- File: Shadow_Case.json
+- File: Shanghai_2024_Anubis_Souvenir_Package.json
+- File: Shanghai_2024_Mirage_Souvenir_Package.json
+- File: Shattered_Web_Case.json
+- File: Snakebite_Case.json
+- File: Spectrum_2_Case.json
+- File: Spectrum_Case.json
+- File: Stockholm_2021_Ancient_Souvenir_Package.json
+- File: Stockholm_2021_Dust_II_Souvenir_Package.json
+- File: Stockholm_2021_Inferno_Souvenir_Package.json
+- File: Stockholm_2021_Mirage_Souvenir_Package.json
+- File: Stockholm_2021_Nuke_Souvenir_Package.json
+- File: Stockholm_2021_Overpass_Souvenir_Package.json
+- File: Stockholm_2021_Vertigo_Souvenir_Package.json
+- File: Winter_Offensive_Weapon_Case.json
+- File: X_Ray_P250_Package.json
+
+
+## Sync Rules
+- After updating repo files that are mapped to runtime, run `python tools\sync_using_map.py --apply`.
+- Use `python tools\sync_using_map.py` for a dry-run preview.
+- Never sync to or from `.../Streaming/Github/...`; Github is backup only.

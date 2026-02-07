@@ -1,0 +1,646 @@
+{
+  "schemaVersion": "3.1-container-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T00:00:00Z",
+    "defaultOdds": {
+      "case": {
+        "blue": 0.7992,
+        "purple": 0.1598,
+        "pink": 0.032,
+        "red": 0.0064,
+        "gold": 0.0026
+      },
+      "collection": {
+        "consumer": 0.7992,
+        "industrial": 0.1598,
+        "milspec": 0.032,
+        "restricted": 0.0064,
+        "classified": 0.00128,
+        "covert": 0.000256
+      }
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "rio-2022-vertigo-souvenir-package",
+    "name": "Rio 2022 Vertigo Souvenir Package",
+    "caseType": "souvenir_package",
+    "supportsStatTrak": false,
+    "statTrakRate": 0,
+    "sources": [
+      "https://www.csgodatabase.com/souvenir-packages/rio-2022-vertigo-souvenir-package/",
+      "https://www.csgodatabase.com/collections/the-2021-vertigo-collection/",
+      "https://steamcommunity.com/market/listings/730/Rio%202022%20Vertigo%20Souvenir%20Package",
+      "https://blog.counter-strike.net/index.php/2022/10/39947/"
+    ],
+    "notes": [
+      "Souvenir Container For IEM Rio 2022 On Vertigo; Drops Are From The 2021 Vertigo Collection.",
+      "Sticker Permutations Are Not Enumerated (stickersMode=ignored)."
+    ],
+    "souvenir": {
+      "tournament": "IEM Rio 2022",
+      "year": "2022",
+      "map": "Vertigo",
+      "collection": "The 2021 Vertigo Collection",
+      "stickersMode": "ignored",
+      "sources": [
+        "https://www.csgodatabase.com/souvenir-packages/rio-2022-vertigo-souvenir-package/",
+        "https://steamcommunity.com/market/listings/730/Rio%202022%20Vertigo%20Souvenir%20Package",
+        "https://counterstrike.fandom.com/wiki/IEM_Rio_2022_Souvenir_Packages"
+      ]
+    },
+    "oddsWeights": {
+      "consumer": 799200000000,
+      "industrial": 159800000000,
+      "milspec": 32000000000,
+      "restricted": 6400000000,
+      "classified": 1280000000,
+      "covert": 1320000000
+    },
+    "tiers": {
+      "consumer": [
+        {
+          "itemId": "souvenir-famas-faulty-wiring",
+          "displayName": "Souvenir FAMAS | Faulty Wiring",
+          "category": "weapon_skin",
+          "weapon": "FAMAS",
+          "skin": "Faulty Wiring",
+          "variant": "Souvenir",
+          "rarity": "consumer",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 159840000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.159840000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--famas-faulty-wiring.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--famas-faulty-wiring--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--famas-faulty-wiring--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--famas-faulty-wiring--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-cz75-auto-framework",
+          "displayName": "Souvenir CZ75-Auto | Framework",
+          "category": "weapon_skin",
+          "weapon": "CZ75-Auto",
+          "skin": "Framework",
+          "variant": "Souvenir",
+          "rarity": "consumer",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 159840000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.159840000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--cz75-auto-framework.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--cz75-auto-framework--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--cz75-auto-framework--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--cz75-auto-framework--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-dual-berettas-oil-change",
+          "displayName": "Souvenir Dual Berettas | Oil Change",
+          "category": "weapon_skin",
+          "weapon": "Dual Berettas",
+          "skin": "Oil Change",
+          "variant": "Souvenir",
+          "rarity": "consumer",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 159840000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.159840000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--dual-berettas-oil-change.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--dual-berettas-oil-change--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--dual-berettas-oil-change--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--dual-berettas-oil-change--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-mac-10-strats",
+          "displayName": "Souvenir MAC-10 | Strats",
+          "category": "weapon_skin",
+          "weapon": "MAC-10",
+          "skin": "Strats",
+          "variant": "Souvenir",
+          "rarity": "consumer",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 159840000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.159840000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--mac-10-strats.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--mac-10-strats--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--mac-10-strats--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--mac-10-strats--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-xm1014-blue-tire",
+          "displayName": "Souvenir XM1014 | Blue Tire",
+          "category": "weapon_skin",
+          "weapon": "XM1014",
+          "skin": "Blue Tire",
+          "variant": "Souvenir",
+          "rarity": "consumer",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 159840000000,
+            "nonStatTrak": 159840000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.159840000000000000",
+            "nonStatTrak": "0.159840000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--xm1014-blue-tire.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--xm1014-blue-tire--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--xm1014-blue-tire--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--consumer--xm1014-blue-tire--04.png"
+          ]
+        }
+      ],
+      "industrial": [
+        {
+          "itemId": "souvenir-ump-45-mechanism",
+          "displayName": "Souvenir UMP-45 | Mechanism",
+          "category": "weapon_skin",
+          "weapon": "UMP-45",
+          "skin": "Mechanism",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 39950000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.039950000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ump-45-mechanism.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ump-45-mechanism--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ump-45-mechanism--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ump-45-mechanism--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-glock-18-red-tire",
+          "displayName": "Souvenir Glock-18 | Red Tire",
+          "category": "weapon_skin",
+          "weapon": "Glock-18",
+          "skin": "Red Tire",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 39950000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.039950000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--glock-18-red-tire.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--glock-18-red-tire--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--glock-18-red-tire--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--glock-18-red-tire--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-ssg-08-carbon-fiber",
+          "displayName": "Souvenir SSG 08 | Carbon Fiber",
+          "category": "weapon_skin",
+          "weapon": "SSG 08",
+          "skin": "Carbon Fiber",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 39950000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.039950000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ssg-08-carbon-fiber.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--ssg-08-carbon-fiber--02.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-pp-bizon-breaker-box",
+          "displayName": "Souvenir PP-Bizon | Breaker Box",
+          "category": "weapon_skin",
+          "weapon": "PP-Bizon",
+          "skin": "Breaker Box",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 39950000000,
+            "nonStatTrak": 39950000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.039950000000000000",
+            "nonStatTrak": "0.039950000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--pp-bizon-breaker-box.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--pp-bizon-breaker-box--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--industrial--pp-bizon-breaker-box--03.png"
+          ]
+        }
+      ],
+      "milspec": [
+        {
+          "itemId": "souvenir-negev-infrastructure",
+          "displayName": "Souvenir Negev | Infrastructure",
+          "category": "weapon_skin",
+          "weapon": "Negev",
+          "skin": "Infrastructure",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 8000000000,
+            "nonStatTrak": 8000000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.008000000000000000",
+            "nonStatTrak": "0.008000000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--negev-infrastructure.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--negev-infrastructure--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--negev-infrastructure--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--negev-infrastructure--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-ak-47-green-laminate",
+          "displayName": "Souvenir AK-47 | Green Laminate",
+          "category": "weapon_skin",
+          "weapon": "AK-47",
+          "skin": "Green Laminate",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 8000000000,
+            "nonStatTrak": 8000000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.008000000000000000",
+            "nonStatTrak": "0.008000000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--ak-47-green-laminate.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--ak-47-green-laminate--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--ak-47-green-laminate--03.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-nova-interlock",
+          "displayName": "Souvenir Nova | Interlock",
+          "category": "weapon_skin",
+          "weapon": "Nova",
+          "skin": "Interlock",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 8000000000,
+            "nonStatTrak": 8000000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.008000000000000000",
+            "nonStatTrak": "0.008000000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--nova-interlock.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--nova-interlock--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--nova-interlock--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--nova-interlock--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-p90-schematic",
+          "displayName": "Souvenir P90 | Schematic",
+          "category": "weapon_skin",
+          "weapon": "P90",
+          "skin": "Schematic",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 8000000000,
+            "nonStatTrak": 8000000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.008000000000000000",
+            "nonStatTrak": "0.008000000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--p90-schematic.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--p90-schematic--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--p90-schematic--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--milspec--p90-schematic--04.png"
+          ]
+        }
+      ],
+      "restricted": [
+        {
+          "itemId": "souvenir-galil-ar-caution",
+          "displayName": "Souvenir Galil AR | CAUTION!",
+          "category": "weapon_skin",
+          "weapon": "Galil AR",
+          "skin": "CAUTION!",
+          "variant": "Souvenir",
+          "rarity": "restricted",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 2133333334,
+            "nonStatTrak": 2133333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.002133333334000000",
+            "nonStatTrak": "0.002133333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--galil-ar-caution.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--galil-ar-caution--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--galil-ar-caution--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--galil-ar-caution--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-mag-7-prism-terrace",
+          "displayName": "Souvenir MAG-7 | Prism Terrace",
+          "category": "weapon_skin",
+          "weapon": "MAG-7",
+          "skin": "Prism Terrace",
+          "variant": "Souvenir",
+          "rarity": "restricted",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 2133333333,
+            "nonStatTrak": 2133333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.002133333333000000",
+            "nonStatTrak": "0.002133333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--mag-7-prism-terrace.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--mag-7-prism-terrace--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--mag-7-prism-terrace--03.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-p250-digital-architect",
+          "displayName": "Souvenir P250 | Digital Architect",
+          "category": "weapon_skin",
+          "weapon": "P250",
+          "skin": "Digital Architect",
+          "variant": "Souvenir",
+          "rarity": "restricted",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 2133333333,
+            "nonStatTrak": 2133333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.002133333333000000",
+            "nonStatTrak": "0.002133333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--p250-digital-architect.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--p250-digital-architect--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--p250-digital-architect--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--restricted--p250-digital-architect--04.png"
+          ]
+        }
+      ],
+      "classified": [
+        {
+          "itemId": "souvenir-five-seve-n-fall-hazard",
+          "displayName": "Souvenir Five-SeveN | Fall Hazard",
+          "category": "weapon_skin",
+          "weapon": "Five-SeveN",
+          "skin": "Fall Hazard",
+          "variant": "Souvenir",
+          "rarity": "classified",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 640000000,
+            "nonStatTrak": 640000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000640000000000000",
+            "nonStatTrak": "0.000640000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--five-seve-n-fall-hazard.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--five-seve-n-fall-hazard--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--five-seve-n-fall-hazard--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--five-seve-n-fall-hazard--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-sg-553-hazard-pay",
+          "displayName": "Souvenir SG 553 | Hazard Pay",
+          "category": "weapon_skin",
+          "weapon": "SG 553",
+          "skin": "Hazard Pay",
+          "variant": "Souvenir",
+          "rarity": "classified",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 640000000,
+            "nonStatTrak": 640000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000640000000000000",
+            "nonStatTrak": "0.000640000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--sg-553-hazard-pay.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--sg-553-hazard-pay--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--sg-553-hazard-pay--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--classified--sg-553-hazard-pay--04.png"
+          ]
+        }
+      ],
+      "covert": [
+        {
+          "itemId": "souvenir-m4a1-s-imminent-danger",
+          "displayName": "Souvenir M4A1-S | Imminent Danger",
+          "category": "weapon_skin",
+          "weapon": "M4A1-S",
+          "skin": "Imminent Danger",
+          "variant": "Souvenir",
+          "rarity": "covert",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop In The Rio 2022 Vertigo Souvenir Package (The 2021 Vertigo Collection).",
+          "weights": {
+            "base": 1320000000,
+            "nonStatTrak": 1320000000,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.001320000000000000",
+            "nonStatTrak": "0.001320000000000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--covert--m4a1-s-imminent-danger.png",
+          "imageAlternates": [
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--covert--m4a1-s-imminent-danger--02.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--covert--m4a1-s-imminent-danger--03.png",
+            "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Weapons/rio-2022-vertigo-souvenir-package--covert--m4a1-s-imminent-danger--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": "None",
+    "image": "Assets/Cases/Rio-2022-Vertigo-Souvenir-Package/Icons/rio-2022-vertigo-souvenir-package--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "consumer": 5,
+      "industrial": 4,
+      "milspec": 4,
+      "restricted": 3,
+      "classified": 2,
+      "covert": 1
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Souvenir Package Export: No Gold Pool And No StatTrak; All Items Forced nonStatTrak=base.",
+      "Default Collection Odds Used; Covert Tier Weight Increased By Remainder So oddsWeights Sum Exactly To 1e12."
+    ]
+  }
+}

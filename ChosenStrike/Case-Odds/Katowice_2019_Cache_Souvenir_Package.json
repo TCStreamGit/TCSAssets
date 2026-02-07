@@ -1,0 +1,476 @@
+{
+  "schemaVersion": "3.1-container-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T00:00:00-07:00",
+    "defaultOdds": {
+      "case": {
+        "blue": 0.7992,
+        "purple": 0.1598,
+        "pink": 0.032,
+        "red": 0.0064,
+        "gold": 0.0026
+      },
+      "collection": {
+        "consumer": 0.7992,
+        "industrial": 0.1598,
+        "milspec": 0.032,
+        "restricted": 0.0064,
+        "classified": 0.00128,
+        "covert": 0.000256
+      }
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "katowice-2019-cache-souvenir-package",
+    "name": "Katowice 2019 Cache Souvenir Package",
+    "caseType": "souvenir_package",
+    "supportsStatTrak": false,
+    "statTrakRate": 0,
+    "sources": [
+      "https://csgoskins.gg/containers/katowice-2019-cache-souvenir-package",
+      "https://steamcommunity.com/market/listings/730/Katowice%202019%20Cache%20Souvenir%20Package",
+      "https://counterstrike.fandom.com/wiki/IEM_Katowice_2019_Souvenir_Packages",
+      "https://stash.clash.gg/collection/The-Cache-Collection"
+    ],
+    "notes": [
+      "Souvenir Package For Cache Using The Cache Collection; Stickers Mode Ignored.",
+      "Collection Contains Only Industrial, Mil-Spec, And Restricted Items; Odds Weights Are Normalized Across Present Tiers (Other Tiers Set To 0)."
+    ],
+    "souvenir": {
+      "tournament": "IEM Katowice",
+      "year": "2019",
+      "map": "Cache",
+      "collection": "The Cache Collection",
+      "stickersMode": "ignored",
+      "sources": [
+        "https://counterstrike.fandom.com/wiki/IEM_Katowice_2019_Souvenir_Packages",
+        "https://csgoskins.gg/containers/katowice-2019-cache-souvenir-package"
+      ]
+    },
+    "oddsWeights": {
+      "consumer": 0,
+      "industrial": 806256306761,
+      "milspec": 161453077699,
+      "restricted": 32290615540,
+      "classified": 0,
+      "covert": 0
+    },
+    "tiers": {
+      "consumer": [],
+      "industrial": [
+        {
+          "itemId": "souvenir-aug-radiation-hazard",
+          "displayName": "Souvenir AUG | Radiation Hazard",
+          "category": "rifle",
+          "weapon": "AUG",
+          "skin": "Radiation Hazard",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051127,
+            "nonStatTrak": 134376051127,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051127000000000000",
+            "nonStatTrak": "0.134376051127000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--aug-radiation-hazard.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--aug-radiation-hazard--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--aug-radiation-hazard--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--aug-radiation-hazard--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-sg-553-fallout-warning",
+          "displayName": "Souvenir SG 553 | Fallout Warning",
+          "category": "rifle",
+          "weapon": "SG 553",
+          "skin": "Fallout Warning",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051127,
+            "nonStatTrak": 134376051127,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051127000000000000",
+            "nonStatTrak": "0.134376051127000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--sg-553-fallout-warning.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--sg-553-fallout-warning--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--sg-553-fallout-warning--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--sg-553-fallout-warning--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-five-seven-hot-shot",
+          "displayName": "Souvenir Five-SeveN | Hot Shot",
+          "category": "pistol",
+          "weapon": "Five-SeveN",
+          "skin": "Hot Shot",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051127,
+            "nonStatTrak": 134376051127,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051127000000000000",
+            "nonStatTrak": "0.134376051127000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--five-seven-hot-shot.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--five-seven-hot-shot--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--five-seven-hot-shot--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--five-seven-hot-shot--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-pp-bizon-chemical-green",
+          "displayName": "Souvenir PP-Bizon | Chemical Green",
+          "category": "smg",
+          "weapon": "PP-Bizon",
+          "skin": "Chemical Green",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051127,
+            "nonStatTrak": 134376051127,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051127000000000000",
+            "nonStatTrak": "0.134376051127000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--pp-bizon-chemical-green.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--pp-bizon-chemical-green--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--pp-bizon-chemical-green--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--pp-bizon-chemical-green--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-p250-contamination",
+          "displayName": "Souvenir P250 | Contamination",
+          "category": "pistol",
+          "weapon": "P250",
+          "skin": "Contamination",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051127,
+            "nonStatTrak": 134376051127,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051127000000000000",
+            "nonStatTrak": "0.134376051127000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--p250-contamination.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--p250-contamination--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--p250-contamination--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--p250-contamination--04.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--p250-contamination--05.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-negev-nuclear-waste",
+          "displayName": "Souvenir Negev | Nuclear Waste",
+          "category": "machinegun",
+          "weapon": "Negev",
+          "skin": "Nuclear Waste",
+          "variant": "Souvenir",
+          "rarity": "industrial",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 134376051126,
+            "nonStatTrak": 134376051126,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.134376051126000000000000",
+            "nonStatTrak": "0.134376051126000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--negev-nuclear-waste.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--negev-nuclear-waste--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--industrial--negev-nuclear-waste--03.png"
+          ]
+        }
+      ],
+      "milspec": [
+        {
+          "itemId": "souvenir-mp9-setting-sun",
+          "displayName": "Souvenir MP9 | Setting Sun",
+          "category": "smg",
+          "weapon": "MP9",
+          "skin": "Setting Sun",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 32290615540,
+            "nonStatTrak": 32290615540,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.032290615540000000000000",
+            "nonStatTrak": "0.032290615540000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mp9-setting-sun.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mp9-setting-sun--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mp9-setting-sun--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mp9-setting-sun--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-glock-18-reactor",
+          "displayName": "Souvenir Glock-18 | Reactor",
+          "category": "pistol",
+          "weapon": "Glock-18",
+          "skin": "Reactor",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 32290615540,
+            "nonStatTrak": 32290615540,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.032290615540000000000000",
+            "nonStatTrak": "0.032290615540000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--glock-18-reactor.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--glock-18-reactor--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--glock-18-reactor--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--glock-18-reactor--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-mac-10-nuclear-garden",
+          "displayName": "Souvenir MAC-10 | Nuclear Garden",
+          "category": "smg",
+          "weapon": "MAC-10",
+          "skin": "Nuclear Garden",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 32290615540,
+            "nonStatTrak": 32290615540,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.032290615540000000000000",
+            "nonStatTrak": "0.032290615540000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mac-10-nuclear-garden.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mac-10-nuclear-garden--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mac-10-nuclear-garden--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mac-10-nuclear-garden--04.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--mac-10-nuclear-garden--05.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-tec-9-toxic",
+          "displayName": "Souvenir Tec-9 | Toxic",
+          "category": "pistol",
+          "weapon": "Tec-9",
+          "skin": "Toxic",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 32290615540,
+            "nonStatTrak": 32290615540,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.032290615540000000000000",
+            "nonStatTrak": "0.032290615540000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--tec-9-toxic.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--tec-9-toxic--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--tec-9-toxic--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--tec-9-toxic--04.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--tec-9-toxic--05.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-xm1014-bone-machine",
+          "displayName": "Souvenir XM1014 | Bone Machine",
+          "category": "shotgun",
+          "weapon": "XM1014",
+          "skin": "Bone Machine",
+          "variant": "Souvenir",
+          "rarity": "milspec",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 32290615539,
+            "nonStatTrak": 32290615539,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.032290615539000000000000",
+            "nonStatTrak": "0.032290615539000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--xm1014-bone-machine.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--xm1014-bone-machine--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--xm1014-bone-machine--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--xm1014-bone-machine--04.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--milspec--xm1014-bone-machine--05.png"
+          ]
+        }
+      ],
+      "restricted": [
+        {
+          "itemId": "souvenir-galil-ar-cerberus",
+          "displayName": "Souvenir Galil AR | Cerberus",
+          "category": "rifle",
+          "weapon": "Galil AR",
+          "skin": "Cerberus",
+          "variant": "Souvenir",
+          "rarity": "restricted",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 16145307770,
+            "nonStatTrak": 16145307770,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.016145307770000000000000",
+            "nonStatTrak": "0.016145307770000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--galil-ar-cerberus.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--galil-ar-cerberus--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--galil-ar-cerberus--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--galil-ar-cerberus--04.png"
+          ]
+        },
+        {
+          "itemId": "souvenir-famas-styx",
+          "displayName": "Souvenir FAMAS | Styx",
+          "category": "rifle",
+          "weapon": "FAMAS",
+          "skin": "Styx",
+          "variant": "Souvenir",
+          "rarity": "restricted",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Item And Rarity Listed For Katowice 2019 Cache Souvenir Package And The Cache Collection On Public CS Skin Databases (CSGOSKINS.GG, Stash.clash.gg).",
+          "weights": {
+            "base": 16145307770,
+            "nonStatTrak": 16145307770,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.016145307770000000000000",
+            "nonStatTrak": "0.016145307770000000000000",
+            "statTrak": "0.000000000000000000000000"
+          },
+          "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--famas-styx.png",
+          "imageAlternates": [
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--famas-styx--02.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--famas-styx--03.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--famas-styx--04.png",
+            "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Weapons/katowice-2019-cache-souvenir-package--restricted--famas-styx--05.png"
+          ]
+        }
+      ],
+      "classified": [],
+      "covert": []
+    },
+    "goldPool": "None",
+    "image": "Assets/Cases/Katowice-2019-Cache-Souvenir-Package/Icons/katowice-2019-cache-souvenir-package--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "consumer": 0,
+      "industrial": 6,
+      "milspec": 5,
+      "restricted": 2,
+      "classified": 0,
+      "covert": 0
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Consumer/Classified/Covert Tiers Do Not Exist In The Cache Collection For This Package; Weights Normalized Across Industrial/Mil-Spec/Restricted To Preserve Total Weight = 1e12."
+    ]
+  }
+}

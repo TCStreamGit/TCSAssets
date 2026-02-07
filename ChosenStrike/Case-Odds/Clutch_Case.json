@@ -1,0 +1,1244 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T03:16:58Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "clutch-case",
+    "name": "Clutch Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://counterstrike.fandom.com/wiki/Clutch_Case",
+      "https://csgoskins.gg/containers/clutch-case"
+    ],
+    "notes": [
+      "Tier OddsWeights Use The Project Default Distribution (Blue/Purple/Pink/Red/Gold).",
+      "Within Each Tier, Item Weights Are Split Equally With Any Remainder Assigned To The First Items In Order; StatTrak Is Applied At 10% (Rounded) For Weapons, And Disabled For Gloves."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "five-seve-n-flame-test",
+          "displayName": "Five-SeveN | Flame Test",
+          "category": "pistol",
+          "weapon": "Five-SeveN",
+          "skin": "Flame Test",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--five-seve-n-flame-test.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--five-seve-n-flame-test--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--five-seve-n-flame-test--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--five-seve-n-flame-test--04.png"
+          ]
+        },
+        {
+          "itemId": "sg-553-aloha",
+          "displayName": "SG 553 | Aloha",
+          "category": "rifle",
+          "weapon": "SG 553",
+          "skin": "Aloha",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--sg-553-aloha.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--sg-553-aloha--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--sg-553-aloha--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--sg-553-aloha--04.png"
+          ]
+        },
+        {
+          "itemId": "r8-revolver-grip",
+          "displayName": "R8 Revolver | Grip",
+          "category": "pistol",
+          "weapon": "R8 Revolver",
+          "skin": "Grip",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--r8-revolver-grip.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--r8-revolver-grip--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--r8-revolver-grip--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--r8-revolver-grip--04.png"
+          ]
+        },
+        {
+          "itemId": "xm1014-oxide-blaze",
+          "displayName": "XM1014 | Oxide Blaze",
+          "category": "shotgun",
+          "weapon": "XM1014",
+          "skin": "Oxide Blaze",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--xm1014-oxide-blaze.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--xm1014-oxide-blaze--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--xm1014-oxide-blaze--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--xm1014-oxide-blaze--04.png"
+          ]
+        },
+        {
+          "itemId": "p2000-urban-hazard",
+          "displayName": "P2000 | Urban Hazard",
+          "category": "pistol",
+          "weapon": "P2000",
+          "skin": "Urban Hazard",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--p2000-urban-hazard.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--p2000-urban-hazard--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--p2000-urban-hazard--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--p2000-urban-hazard--04.png"
+          ]
+        },
+        {
+          "itemId": "mp9-black-sand",
+          "displayName": "MP9 | Black Sand",
+          "category": "smg",
+          "weapon": "MP9",
+          "skin": "Black Sand",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--mp9-black-sand.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--mp9-black-sand--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--mp9-black-sand--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--mp9-black-sand--04.png"
+          ]
+        },
+        {
+          "itemId": "pp-bizon-night-riot",
+          "displayName": "PP-Bizon | Night Riot",
+          "category": "smg",
+          "weapon": "PP-Bizon",
+          "skin": "Night Riot",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--pp-bizon-night-riot.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--pp-bizon-night-riot--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--pp-bizon-night-riot--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--mil-spec--pp-bizon-night-riot--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "glock-18-moonrise",
+          "displayName": "Glock-18 | Moonrise",
+          "category": "pistol",
+          "weapon": "Glock-18",
+          "skin": "Moonrise",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--glock-18-moonrise.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--glock-18-moonrise--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--glock-18-moonrise--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--glock-18-moonrise--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-arctic-wolf",
+          "displayName": "UMP-45 | Arctic Wolf",
+          "category": "smg",
+          "weapon": "UMP-45",
+          "skin": "Arctic Wolf",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--ump-45-arctic-wolf.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--ump-45-arctic-wolf--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--ump-45-arctic-wolf--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--ump-45-arctic-wolf--04.png"
+          ]
+        },
+        {
+          "itemId": "mag-7-swag-7",
+          "displayName": "MAG-7 | SWAG-7",
+          "category": "shotgun",
+          "weapon": "MAG-7",
+          "skin": "SWAG-7",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--mag-7-swag-7.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--mag-7-swag-7--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--mag-7-swag-7--03.png"
+          ]
+        },
+        {
+          "itemId": "negev-lionfish",
+          "displayName": "Negev | Lionfish",
+          "category": "machinegun",
+          "weapon": "Negev",
+          "skin": "Lionfish",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--negev-lionfish.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--negev-lionfish--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--negev-lionfish--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--negev-lionfish--04.png"
+          ]
+        },
+        {
+          "itemId": "nova-wild-six",
+          "displayName": "Nova | Wild Six",
+          "category": "shotgun",
+          "weapon": "Nova",
+          "skin": "Wild Six",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--nova-wild-six.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--nova-wild-six--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--nova-wild-six--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--restricted--nova-wild-six--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "usp-s-cortex",
+          "displayName": "USP-S | Cortex",
+          "category": "pistol",
+          "weapon": "USP-S",
+          "skin": "Cortex",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--usp-s-cortex.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--usp-s-cortex--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--usp-s-cortex--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--usp-s-cortex--04.png"
+          ]
+        },
+        {
+          "itemId": "awp-mortis",
+          "displayName": "AWP | Mortis",
+          "category": "sniper-rifle",
+          "weapon": "AWP",
+          "skin": "Mortis",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--awp-mortis.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--awp-mortis--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--awp-mortis--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--awp-mortis--04.png"
+          ]
+        },
+        {
+          "itemId": "aug-stymphalian",
+          "displayName": "AUG | Stymphalian",
+          "category": "rifle",
+          "weapon": "AUG",
+          "skin": "Stymphalian",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--aug-stymphalian.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--aug-stymphalian--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--aug-stymphalian--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--classified--aug-stymphalian--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "mp7-bloodsport",
+          "displayName": "MP7 | Bloodsport",
+          "category": "smg",
+          "weapon": "MP7",
+          "skin": "Bloodsport",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--mp7-bloodsport.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--mp7-bloodsport--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--mp7-bloodsport--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--mp7-bloodsport--04.png"
+          ]
+        },
+        {
+          "itemId": "m4a4-neo-noir",
+          "displayName": "M4A4 | Neo-Noir",
+          "category": "rifle",
+          "weapon": "M4A4",
+          "skin": "Neo-Noir",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Weapon Finish In Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--m4a4-neo-noir.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--m4a4-neo-noir--02.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--m4a4-neo-noir--03.png",
+            "Assets/Cases/Clutch-Case/Weapons/clutch-case--covert--m4a4-neo-noir--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "clutch-case-glove-pool",
+      "name": "Clutch Case Gloves",
+      "category": "glove_pool",
+      "sources": [
+        "https://counterstrike.fandom.com/wiki/Clutch_Case",
+        "https://csgoskins.gg/containers/clutch-case/specials"
+      ],
+      "items": [
+        {
+          "itemId": "hydra-gloves-emerald",
+          "displayName": "★ Hydra Gloves | Emerald",
+          "category": "gloves",
+          "weapon": "Hydra Gloves",
+          "skin": "Emerald",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-emerald.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-emerald--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-emerald--03.png"
+          ]
+        },
+        {
+          "itemId": "hydra-gloves-case-hardened",
+          "displayName": "★ Hydra Gloves | Case Hardened",
+          "category": "gloves",
+          "weapon": "Hydra Gloves",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-case-hardened--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-case-hardened--03.png"
+          ]
+        },
+        {
+          "itemId": "hydra-gloves-rattler",
+          "displayName": "★ Hydra Gloves | Rattler",
+          "category": "gloves",
+          "weapon": "Hydra Gloves",
+          "skin": "Rattler",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-rattler.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-rattler--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-rattler--03.png"
+          ]
+        },
+        {
+          "itemId": "hydra-gloves-mangrove",
+          "displayName": "★ Hydra Gloves | Mangrove",
+          "category": "gloves",
+          "weapon": "Hydra Gloves",
+          "skin": "Mangrove",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-mangrove.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-mangrove--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hydra-gloves-mangrove--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-racing-green",
+          "displayName": "★ Driver Gloves | Racing Green",
+          "category": "gloves",
+          "weapon": "Driver Gloves",
+          "skin": "Racing Green",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-racing-green.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-racing-green--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-racing-green--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-overtake",
+          "displayName": "★ Driver Gloves | Overtake",
+          "category": "gloves",
+          "weapon": "Driver Gloves",
+          "skin": "Overtake",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-overtake.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-overtake--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-overtake--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-king-snake",
+          "displayName": "★ Driver Gloves | King Snake",
+          "category": "gloves",
+          "weapon": "Driver Gloves",
+          "skin": "King Snake",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-king-snake.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-king-snake--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-king-snake--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-imperial-plaid",
+          "displayName": "★ Driver Gloves | Imperial Plaid",
+          "category": "gloves",
+          "weapon": "Driver Gloves",
+          "skin": "Imperial Plaid",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-imperial-plaid.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-imperial-plaid--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--driver-gloves-imperial-plaid--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-duct-tape",
+          "displayName": "★ Hand Wraps | Duct Tape",
+          "category": "gloves",
+          "weapon": "Hand Wraps",
+          "skin": "Duct Tape",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-duct-tape.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-duct-tape--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-duct-tape--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-cobalt-skulls",
+          "displayName": "★ Hand Wraps | Cobalt Skulls",
+          "category": "gloves",
+          "weapon": "Hand Wraps",
+          "skin": "Cobalt Skulls",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-cobalt-skulls.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-cobalt-skulls--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-cobalt-skulls--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-overprint",
+          "displayName": "★ Hand Wraps | Overprint",
+          "category": "gloves",
+          "weapon": "Hand Wraps",
+          "skin": "Overprint",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-overprint.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-overprint--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-overprint--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-arboreal",
+          "displayName": "★ Hand Wraps | Arboreal",
+          "category": "gloves",
+          "weapon": "Hand Wraps",
+          "skin": "Arboreal",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-arboreal.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-arboreal--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--hand-wraps-arboreal--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-transport",
+          "displayName": "★ Moto Gloves | Transport",
+          "category": "gloves",
+          "weapon": "Moto Gloves",
+          "skin": "Transport",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-transport.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-transport--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-transport--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-polygon",
+          "displayName": "★ Moto Gloves | Polygon",
+          "category": "gloves",
+          "weapon": "Moto Gloves",
+          "skin": "Polygon",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-polygon.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-polygon--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-polygon--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-pow",
+          "displayName": "★ Moto Gloves | POW!",
+          "category": "gloves",
+          "weapon": "Moto Gloves",
+          "skin": "POW!",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-pow.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-pow--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-pow--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-turtle",
+          "displayName": "★ Moto Gloves | Turtle",
+          "category": "gloves",
+          "weapon": "Moto Gloves",
+          "skin": "Turtle",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-turtle.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-turtle--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--moto-gloves-turtle--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-fade",
+          "displayName": "★ Specialist Gloves | Fade",
+          "category": "gloves",
+          "weapon": "Specialist Gloves",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-fade--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-buckshot",
+          "displayName": "★ Specialist Gloves | Buckshot",
+          "category": "gloves",
+          "weapon": "Specialist Gloves",
+          "skin": "Buckshot",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-buckshot.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-buckshot--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-buckshot--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-crimson-web",
+          "displayName": "★ Specialist Gloves | Crimson Web",
+          "category": "gloves",
+          "weapon": "Specialist Gloves",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-crimson-web--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-crimson-web--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-mogul",
+          "displayName": "★ Specialist Gloves | Mogul",
+          "category": "gloves",
+          "weapon": "Specialist Gloves",
+          "skin": "Mogul",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-mogul.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-mogul--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--specialist-gloves-mogul--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-bronze-morph",
+          "displayName": "★ Sport Gloves | Bronze Morph",
+          "category": "gloves",
+          "weapon": "Sport Gloves",
+          "skin": "Bronze Morph",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-bronze-morph.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-bronze-morph--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-bronze-morph--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-amphibious",
+          "displayName": "★ Sport Gloves | Amphibious",
+          "category": "gloves",
+          "weapon": "Sport Gloves",
+          "skin": "Amphibious",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-amphibious.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-amphibious--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-amphibious--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-vice",
+          "displayName": "★ Sport Gloves | Vice",
+          "category": "gloves",
+          "weapon": "Sport Gloves",
+          "skin": "Vice",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-vice.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-vice--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-vice--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-omega",
+          "displayName": "★ Sport Gloves | Omega",
+          "category": "gloves",
+          "weapon": "Sport Gloves",
+          "skin": "Omega",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Clutch Case Rare Special Item (Gloves) In Counter-Strike Wiki.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-omega.png",
+          "imageAlternates": [
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-omega--02.png",
+            "Assets/Cases/Clutch-Case/Gloves/clutch-case--extraordinary--sport-gloves-omega--03.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Clutch-Case/Icons/clutch-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 7,
+      "purple": 5,
+      "pink": 3,
+      "red": 2,
+      "gold": 24
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Weapon StatTrak Weights Are Computed As Rounded 10% Of Each Eligible Item Base Weight; Non-StatTrak Receives The Remaining Weight.",
+      "Gloves Are Not StatTrak Eligible; All Glove Weight Is Assigned To Non-StatTrak."
+    ]
+  }
+}

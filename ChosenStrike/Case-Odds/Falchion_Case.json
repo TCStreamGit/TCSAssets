@@ -1,0 +1,927 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-18T03:26:36Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "falchion-case",
+    "name": "Falchion Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://counterstrike.fandom.com/wiki/Falchion_Case",
+      "https://csgoskins.gg/containers/falchion-case",
+      "https://steamcommunity.com/market/listings/730/Falchion%20Case"
+    ],
+    "notes": [
+      "Tier Weights Use Default Case Odds And Are Split Evenly Within Each Tier; Any Remainder Is Assigned To The First Items In That Tier.",
+      "StatTrak Weights Use A 10% Rate (Rounded Half-Up) For StatTrak-Eligible Items."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "usp-s-torque",
+          "displayName": "USP-S | Torque",
+          "category": "pistol",
+          "weapon": "USP-S",
+          "skin": "Torque",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--usp-s-torque.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--usp-s-torque--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--usp-s-torque--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--usp-s-torque--04.png"
+          ]
+        },
+        {
+          "itemId": "galil-ar-rocket-pop",
+          "displayName": "Galil AR | Rocket Pop",
+          "category": "rifle",
+          "weapon": "Galil AR",
+          "skin": "Rocket Pop",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--galil-ar-rocket-pop.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--galil-ar-rocket-pop--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--galil-ar-rocket-pop--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--galil-ar-rocket-pop--04.png"
+          ]
+        },
+        {
+          "itemId": "glock-18-bunsen-burner",
+          "displayName": "Glock-18 | Bunsen Burner",
+          "category": "pistol",
+          "weapon": "Glock-18",
+          "skin": "Bunsen Burner",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--glock-18-bunsen-burner.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--glock-18-bunsen-burner--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--glock-18-bunsen-burner--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--glock-18-bunsen-burner--04.png"
+          ]
+        },
+        {
+          "itemId": "p90-elite-build",
+          "displayName": "P90 | Elite Build",
+          "category": "smg",
+          "weapon": "P90",
+          "skin": "Elite Build",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--p90-elite-build.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--p90-elite-build--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--p90-elite-build--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--p90-elite-build--04.png"
+          ]
+        },
+        {
+          "itemId": "nova-ranger",
+          "displayName": "Nova | Ranger",
+          "category": "shotgun",
+          "weapon": "Nova",
+          "skin": "Ranger",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--nova-ranger.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--nova-ranger--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--nova-ranger--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--nova-ranger--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-riot",
+          "displayName": "UMP-45 | Riot",
+          "category": "smg",
+          "weapon": "UMP-45",
+          "skin": "Riot",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 133200000000,
+            "nonStatTrak": 119880000000,
+            "statTrak": 13320000000
+          },
+          "probs": {
+            "base": "0.133200000000000000",
+            "nonStatTrak": "0.119880000000000000",
+            "statTrak": "0.013320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--ump-45-riot.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--ump-45-riot--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--ump-45-riot--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--mil-spec--ump-45-riot--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "m4a4-evil-daimyo",
+          "displayName": "M4A4 | Evil Daimyo",
+          "category": "rifle",
+          "weapon": "M4A4",
+          "skin": "Evil Daimyo",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--m4a4-evil-daimyo.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--m4a4-evil-daimyo--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--m4a4-evil-daimyo--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--m4a4-evil-daimyo--04.png"
+          ]
+        },
+        {
+          "itemId": "mp9-ruby-poison-dart",
+          "displayName": "MP9 | Ruby Poison Dart",
+          "category": "smg",
+          "weapon": "MP9",
+          "skin": "Ruby Poison Dart",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--mp9-ruby-poison-dart.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--mp9-ruby-poison-dart--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--mp9-ruby-poison-dart--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--mp9-ruby-poison-dart--04.png"
+          ]
+        },
+        {
+          "itemId": "famas-neural-net",
+          "displayName": "FAMAS | Neural Net",
+          "category": "rifle",
+          "weapon": "FAMAS",
+          "skin": "Neural Net",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--famas-neural-net.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--famas-neural-net--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--famas-neural-net--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--famas-neural-net--04.png"
+          ]
+        },
+        {
+          "itemId": "p2000-handgun",
+          "displayName": "P2000 | Handgun",
+          "category": "pistol",
+          "weapon": "P2000",
+          "skin": "Handgun",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--p2000-handgun.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--p2000-handgun--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--p2000-handgun--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--p2000-handgun--04.png"
+          ]
+        },
+        {
+          "itemId": "negev-loudmouth",
+          "displayName": "Negev | Loudmouth",
+          "category": "machinegun",
+          "weapon": "Negev",
+          "skin": "Loudmouth",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--negev-loudmouth.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--negev-loudmouth--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--negev-loudmouth--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--restricted--negev-loudmouth--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "sg-553-cyrex",
+          "displayName": "SG 553 | Cyrex",
+          "category": "rifle",
+          "weapon": "SG 553",
+          "skin": "Cyrex",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--sg-553-cyrex.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--sg-553-cyrex--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--sg-553-cyrex--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--sg-553-cyrex--04.png"
+          ]
+        },
+        {
+          "itemId": "mp7-nemesis",
+          "displayName": "MP7 | Nemesis",
+          "category": "smg",
+          "weapon": "MP7",
+          "skin": "Nemesis",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--mp7-nemesis.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--mp7-nemesis--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--mp7-nemesis--03.png"
+          ]
+        },
+        {
+          "itemId": "cz75-auto-yellow-jacket",
+          "displayName": "CZ75-Auto | Yellow Jacket",
+          "category": "pistol",
+          "weapon": "CZ75-Auto",
+          "skin": "Yellow Jacket",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--cz75-auto-yellow-jacket.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--cz75-auto-yellow-jacket--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--cz75-auto-yellow-jacket--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--classified--cz75-auto-yellow-jacket--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "awp-hyper-beast",
+          "displayName": "AWP | Hyper Beast",
+          "category": "sniper-rifle",
+          "weapon": "AWP",
+          "skin": "Hyper Beast",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--awp-hyper-beast.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--awp-hyper-beast--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--awp-hyper-beast--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--awp-hyper-beast--04.png"
+          ]
+        },
+        {
+          "itemId": "ak-47-aquamarine-revenge",
+          "displayName": "AK-47 | Aquamarine Revenge",
+          "category": "rifle",
+          "weapon": "AK-47",
+          "skin": "Aquamarine Revenge",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--ak-47-aquamarine-revenge.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--ak-47-aquamarine-revenge--02.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--ak-47-aquamarine-revenge--03.png",
+            "Assets/Cases/Falchion-Case/Weapons/falchion-case--covert--ak-47-aquamarine-revenge--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "falchion-knife-pool",
+      "name": "Falchion Knife Rare Special Items",
+      "category": "knife_pool",
+      "sources": [
+        "https://csgoskins.gg/containers/falchion-case/specials",
+        "https://counterstrike.fandom.com/wiki/Falchion_Knife"
+      ],
+      "items": [
+        {
+          "itemId": "falchion-knife-night",
+          "displayName": "Falchion Knife | Night",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Night",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-night.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-night--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-night--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-night--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-night--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-safari-mesh",
+          "displayName": "Falchion Knife | Safari Mesh",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Safari Mesh",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-safari-mesh.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-safari-mesh--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-safari-mesh--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-safari-mesh--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-safari-mesh--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-vanilla",
+          "displayName": "Falchion Knife | Vanilla",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Vanilla",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-vanilla.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-vanilla--02.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-case-hardened",
+          "displayName": "Falchion Knife | Case Hardened",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Case Hardened",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-case-hardened.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-case-hardened--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-case-hardened--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-case-hardened--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-case-hardened--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-forest-ddpat",
+          "displayName": "Falchion Knife | Forest DDPAT",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Forest DDPAT",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-forest-ddpat.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-forest-ddpat--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-forest-ddpat--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-forest-ddpat--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-forest-ddpat--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-slaughter",
+          "displayName": "Falchion Knife | Slaughter",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Slaughter",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-slaughter.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-slaughter--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-slaughter--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-slaughter--04.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-urban-masked",
+          "displayName": "Falchion Knife | Urban Masked",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Urban Masked",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-urban-masked.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-urban-masked--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-urban-masked--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-urban-masked--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-urban-masked--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-stained",
+          "displayName": "Falchion Knife | Stained",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Stained",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-stained.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-stained--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-stained--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-stained--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-stained--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-crimson-web",
+          "displayName": "Falchion Knife | Crimson Web",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Crimson Web",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-crimson-web.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-crimson-web--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-crimson-web--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-crimson-web--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-crimson-web--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-blue-steel",
+          "displayName": "Falchion Knife | Blue Steel",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Blue Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-blue-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-blue-steel--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-blue-steel--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-blue-steel--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-blue-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-scorched",
+          "displayName": "Falchion Knife | Scorched",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Scorched",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-scorched.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-scorched--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-scorched--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-scorched--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-scorched--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-boreal-forest",
+          "displayName": "Falchion Knife | Boreal Forest",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Boreal Forest",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-boreal-forest.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-boreal-forest--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-boreal-forest--03.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-boreal-forest--04.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-boreal-forest--05.png"
+          ]
+        },
+        {
+          "itemId": "falchion-knife-fade",
+          "displayName": "Falchion Knife | Fade",
+          "category": "knife",
+          "weapon": "Falchion Knife",
+          "skin": "Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Possible Drop For This Case On CSGOSKINS.GG.",
+          "weights": {
+            "base": 200000000,
+            "nonStatTrak": 180000000,
+            "statTrak": 20000000
+          },
+          "probs": {
+            "base": "0.000200000000000000",
+            "nonStatTrak": "0.000180000000000000",
+            "statTrak": "0.000020000000000000"
+          },
+          "image": "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-fade--02.png",
+            "Assets/Cases/Falchion-Case/Knives/falchion-case--rare-special--falchion-knife-fade--03.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Falchion-Case/Icons/falchion-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 6,
+      "purple": 5,
+      "pink": 3,
+      "red": 2,
+      "gold": 13
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "Per-Item Weights Are Derived From Default Tier Odds And An Equal Split Within Each Tier; Valve Does Not Publish Exact Per-Skin Drop Chances."
+    ]
+  }
+}

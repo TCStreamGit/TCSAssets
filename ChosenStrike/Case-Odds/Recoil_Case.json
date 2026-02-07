@@ -1,0 +1,1241 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-17T00:00:00Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "recoil-case",
+    "name": "Recoil Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://counterstrike.fandom.com/wiki/Recoil_Case",
+      "https://csgoskins.gg/containers/recoil-case"
+    ],
+    "notes": [
+      "Tier Odds Use Default Valve-Style Rates; Weights Are Evenly Distributed Within Each Tier. Gold Pool Is The Broken Fang Gloves Set."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "famas-meow-36",
+          "displayName": "FAMAS | Meow 36",
+          "category": "weapon_skin",
+          "weapon": "FAMAS",
+          "skin": "Meow 36",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--famas-meow-36.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--famas-meow-36--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--famas-meow-36--03.png"
+          ]
+        },
+        {
+          "itemId": "galil-ar-destroyer",
+          "displayName": "Galil AR | Destroyer",
+          "category": "weapon_skin",
+          "weapon": "Galil AR",
+          "skin": "Destroyer",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--galil-ar-destroyer.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--galil-ar-destroyer--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--galil-ar-destroyer--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--galil-ar-destroyer--04.png"
+          ]
+        },
+        {
+          "itemId": "m4a4-poly-mag",
+          "displayName": "M4A4 | Poly Mag",
+          "category": "weapon_skin",
+          "weapon": "M4A4",
+          "skin": "Poly Mag",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--m4a4-poly-mag.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--m4a4-poly-mag--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--m4a4-poly-mag--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--m4a4-poly-mag--04.png"
+          ]
+        },
+        {
+          "itemId": "mac-10-monkeyflage",
+          "displayName": "MAC-10 | Monkeyflage",
+          "category": "weapon_skin",
+          "weapon": "MAC-10",
+          "skin": "Monkeyflage",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--mac-10-monkeyflage.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--mac-10-monkeyflage--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--mac-10-monkeyflage--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--mac-10-monkeyflage--04.png"
+          ]
+        },
+        {
+          "itemId": "negev-drop-me",
+          "displayName": "Negev | Drop Me",
+          "category": "weapon_skin",
+          "weapon": "Negev",
+          "skin": "Drop Me",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--negev-drop-me.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--negev-drop-me--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--negev-drop-me--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--negev-drop-me--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-roadblock",
+          "displayName": "UMP-45 | Roadblock",
+          "category": "weapon_skin",
+          "weapon": "UMP-45",
+          "skin": "Roadblock",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--ump-45-roadblock.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--ump-45-roadblock--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--ump-45-roadblock--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--ump-45-roadblock--04.png"
+          ]
+        },
+        {
+          "itemId": "glock-18-winterized",
+          "displayName": "Glock-18 | Winterized",
+          "category": "weapon_skin",
+          "weapon": "Glock-18",
+          "skin": "Winterized",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--glock-18-winterized.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--glock-18-winterized--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--glock-18-winterized--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--mil-spec--glock-18-winterized--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "r8-revolver-crazy-8",
+          "displayName": "R8 Revolver | Crazy 8",
+          "category": "weapon_skin",
+          "weapon": "R8 Revolver",
+          "skin": "Crazy 8",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--r8-revolver-crazy-8.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--r8-revolver-crazy-8--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--r8-revolver-crazy-8--03.png"
+          ]
+        },
+        {
+          "itemId": "dual-berettas-flora-carnivora",
+          "displayName": "Dual Berettas | Flora Carnivora",
+          "category": "weapon_skin",
+          "weapon": "Dual Berettas",
+          "skin": "Flora Carnivora",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--dual-berettas-flora-carnivora.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--dual-berettas-flora-carnivora--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--dual-berettas-flora-carnivora--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--dual-berettas-flora-carnivora--04.png"
+          ]
+        },
+        {
+          "itemId": "sg-553-dragon-tech",
+          "displayName": "SG 553 | Dragon Tech",
+          "category": "weapon_skin",
+          "weapon": "SG 553",
+          "skin": "Dragon Tech",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--sg-553-dragon-tech.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--sg-553-dragon-tech--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--sg-553-dragon-tech--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--sg-553-dragon-tech--04.png"
+          ]
+        },
+        {
+          "itemId": "p90-vent-rush",
+          "displayName": "P90 | Vent Rush",
+          "category": "weapon_skin",
+          "weapon": "P90",
+          "skin": "Vent Rush",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--p90-vent-rush.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--p90-vent-rush--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--p90-vent-rush--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--p90-vent-rush--04.png"
+          ]
+        },
+        {
+          "itemId": "m249-downtown",
+          "displayName": "M249 | Downtown",
+          "category": "weapon_skin",
+          "weapon": "M249",
+          "skin": "Downtown",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--m249-downtown.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--m249-downtown--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--m249-downtown--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--restricted--m249-downtown--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "ak-47-ice-coaled",
+          "displayName": "AK-47 | Ice Coaled",
+          "category": "weapon_skin",
+          "weapon": "AK-47",
+          "skin": "Ice Coaled",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--ak-47-ice-coaled.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--ak-47-ice-coaled--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--ak-47-ice-coaled--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--ak-47-ice-coaled--04.png"
+          ]
+        },
+        {
+          "itemId": "p250-visions",
+          "displayName": "P250 | Visions",
+          "category": "weapon_skin",
+          "weapon": "P250",
+          "skin": "Visions",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--p250-visions.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--p250-visions--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--p250-visions--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--p250-visions--04.png"
+          ]
+        },
+        {
+          "itemId": "sawed-off-kiss-love",
+          "displayName": "Sawed-Off | Kiss♥Love",
+          "category": "weapon_skin",
+          "weapon": "Sawed-Off",
+          "skin": "Kiss♥Love",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--sawed-off-kiss-love.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--sawed-off-kiss-love--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--sawed-off-kiss-love--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--classified--sawed-off-kiss-love--04.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "usp-s-printstream",
+          "displayName": "USP-S | Printstream",
+          "category": "weapon_skin",
+          "weapon": "USP-S",
+          "skin": "Printstream",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--usp-s-printstream.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--usp-s-printstream--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--usp-s-printstream--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--usp-s-printstream--04.png"
+          ]
+        },
+        {
+          "itemId": "awp-chromatic-aberration",
+          "displayName": "AWP | Chromatic Aberration",
+          "category": "weapon_skin",
+          "weapon": "AWP",
+          "skin": "Chromatic Aberration",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Recoil Case Drop By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--awp-chromatic-aberration.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--awp-chromatic-aberration--02.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--awp-chromatic-aberration--03.png",
+            "Assets/Cases/Recoil-Case/Weapons/recoil-case--covert--awp-chromatic-aberration--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "recoil-case-broken-fang-gloves-pool",
+      "name": "Broken Fang Gloves (Recoil Case Rare Special Items)",
+      "category": "glove_pool",
+      "sources": [
+        "https://counterstrike.fandom.com/wiki/Recoil_Case",
+        "https://csgoskins.gg/containers/recoil-case/specials"
+      ],
+      "items": [
+        {
+          "itemId": "broken-fang-gloves-jade",
+          "displayName": "★ Broken Fang Gloves | Jade",
+          "category": "glove",
+          "weapon": "Broken Fang Gloves",
+          "skin": "Jade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-jade.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-jade--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-jade--03.png"
+          ]
+        },
+        {
+          "itemId": "broken-fang-gloves-yellow-banded",
+          "displayName": "★ Broken Fang Gloves | Yellow Banded",
+          "category": "glove",
+          "weapon": "Broken Fang Gloves",
+          "skin": "Yellow Banded",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-yellow-banded.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-yellow-banded--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-yellow-banded--03.png"
+          ]
+        },
+        {
+          "itemId": "broken-fang-gloves-needle-point",
+          "displayName": "★ Broken Fang Gloves | Needle Point",
+          "category": "glove",
+          "weapon": "Broken Fang Gloves",
+          "skin": "Needle Point",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-needle-point.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-needle-point--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-needle-point--03.png"
+          ]
+        },
+        {
+          "itemId": "broken-fang-gloves-unhinged",
+          "displayName": "★ Broken Fang Gloves | Unhinged",
+          "category": "glove",
+          "weapon": "Broken Fang Gloves",
+          "skin": "Unhinged",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-unhinged.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-unhinged--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--broken-fang-gloves-unhinged--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-snow-leopard",
+          "displayName": "★ Driver Gloves | Snow Leopard",
+          "category": "glove",
+          "weapon": "Driver Gloves",
+          "skin": "Snow Leopard",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-snow-leopard.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-snow-leopard--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-snow-leopard--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-black-tie",
+          "displayName": "★ Driver Gloves | Black Tie",
+          "category": "glove",
+          "weapon": "Driver Gloves",
+          "skin": "Black Tie",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-black-tie.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-black-tie--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-black-tie--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-rezan-the-red",
+          "displayName": "★ Driver Gloves | Rezan The Red",
+          "category": "glove",
+          "weapon": "Driver Gloves",
+          "skin": "Rezan the Red",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-rezan-the-red.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-rezan-the-red--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-rezan-the-red--03.png"
+          ]
+        },
+        {
+          "itemId": "driver-gloves-queen-jaguar",
+          "displayName": "★ Driver Gloves | Queen Jaguar",
+          "category": "glove",
+          "weapon": "Driver Gloves",
+          "skin": "Queen Jaguar",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333334,
+            "nonStatTrak": 108333334,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333334000000",
+            "nonStatTrak": "0.000108333334000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-queen-jaguar.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-queen-jaguar--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--driver-gloves-queen-jaguar--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-caution",
+          "displayName": "★ Hand Wraps | CAUTION!",
+          "category": "glove",
+          "weapon": "Hand Wraps",
+          "skin": "CAUTION!",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-caution.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-caution--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-caution--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-constrictor",
+          "displayName": "★ Hand Wraps | Constrictor",
+          "category": "glove",
+          "weapon": "Hand Wraps",
+          "skin": "Constrictor",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-constrictor.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-constrictor--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-constrictor--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-giraffe",
+          "displayName": "★ Hand Wraps | Giraffe",
+          "category": "glove",
+          "weapon": "Hand Wraps",
+          "skin": "Giraffe",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-giraffe.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-giraffe--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-giraffe--03.png"
+          ]
+        },
+        {
+          "itemId": "hand-wraps-desert-shamagh",
+          "displayName": "★ Hand Wraps | Desert Shamagh",
+          "category": "glove",
+          "weapon": "Hand Wraps",
+          "skin": "Desert Shamagh",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-desert-shamagh.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-desert-shamagh--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--hand-wraps-desert-shamagh--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-smoke-out",
+          "displayName": "★ Moto Gloves | Smoke Out",
+          "category": "glove",
+          "weapon": "Moto Gloves",
+          "skin": "Smoke Out",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-smoke-out.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-smoke-out--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-smoke-out--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-blood-pressure",
+          "displayName": "★ Moto Gloves | Blood Pressure",
+          "category": "glove",
+          "weapon": "Moto Gloves",
+          "skin": "Blood Pressure",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-blood-pressure.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-blood-pressure--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-blood-pressure--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-finish-line",
+          "displayName": "★ Moto Gloves | Finish Line",
+          "category": "glove",
+          "weapon": "Moto Gloves",
+          "skin": "Finish Line",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-finish-line.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-finish-line--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-finish-line--03.png"
+          ]
+        },
+        {
+          "itemId": "moto-gloves-3rd-commando-company",
+          "displayName": "★ Moto Gloves | 3rd Commando Company",
+          "category": "glove",
+          "weapon": "Moto Gloves",
+          "skin": "3rd Commando Company",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-3rd-commando-company.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-3rd-commando-company--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--moto-gloves-3rd-commando-company--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-marble-fade",
+          "displayName": "★ Specialist Gloves | Marble Fade",
+          "category": "glove",
+          "weapon": "Specialist Gloves",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-marble-fade--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-field-agent",
+          "displayName": "★ Specialist Gloves | Field Agent",
+          "category": "glove",
+          "weapon": "Specialist Gloves",
+          "skin": "Field Agent",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-field-agent.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-field-agent--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-field-agent--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-tiger-strike",
+          "displayName": "★ Specialist Gloves | Tiger Strike",
+          "category": "glove",
+          "weapon": "Specialist Gloves",
+          "skin": "Tiger Strike",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-tiger-strike.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-tiger-strike--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-tiger-strike--03.png"
+          ]
+        },
+        {
+          "itemId": "specialist-gloves-lt-commander",
+          "displayName": "★ Specialist Gloves | Lt. Commander",
+          "category": "glove",
+          "weapon": "Specialist Gloves",
+          "skin": "Lt. Commander",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-lt-commander.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-lt-commander--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--specialist-gloves-lt-commander--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-slingshot",
+          "displayName": "★ Sport Gloves | Slingshot",
+          "category": "glove",
+          "weapon": "Sport Gloves",
+          "skin": "Slingshot",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-slingshot.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-slingshot--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-slingshot--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-nocts",
+          "displayName": "★ Sport Gloves | Nocts",
+          "category": "glove",
+          "weapon": "Sport Gloves",
+          "skin": "Nocts",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-nocts.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-nocts--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-nocts--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-scarlet-shamagh",
+          "displayName": "★ Sport Gloves | Scarlet Shamagh",
+          "category": "glove",
+          "weapon": "Sport Gloves",
+          "skin": "Scarlet Shamagh",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-scarlet-shamagh.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-scarlet-shamagh--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-scarlet-shamagh--03.png"
+          ]
+        },
+        {
+          "itemId": "sport-gloves-big-game",
+          "displayName": "★ Sport Gloves | Big Game",
+          "category": "glove",
+          "weapon": "Sport Gloves",
+          "skin": "Big Game",
+          "variant": "None",
+          "rarity": "extraordinary",
+          "statTrakEligible": false,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Rare Special Item (Broken Fang Gloves Set) In The Recoil Case By Counter-Strike Wiki And CSGOSKINS.GG.",
+          "weights": {
+            "base": 108333333,
+            "nonStatTrak": 108333333,
+            "statTrak": 0
+          },
+          "probs": {
+            "base": "0.000108333333000000",
+            "nonStatTrak": "0.000108333333000000",
+            "statTrak": "0.000000000000000000"
+          },
+          "image": "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-big-game.png",
+          "imageAlternates": [
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-big-game--02.png",
+            "Assets/Cases/Recoil-Case/Gloves/recoil-case--extraordinary--sport-gloves-big-game--03.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Recoil-Case/Icons/recoil-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 7,
+      "purple": 5,
+      "pink": 3,
+      "red": 2,
+      "gold": 24
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "None"
+    ]
+  }
+}

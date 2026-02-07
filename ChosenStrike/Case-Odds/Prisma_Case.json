@@ -1,0 +1,2125 @@
+{
+  "schemaVersion": "3.0-case-export",
+  "unit": {
+    "scale": 1000000000000,
+    "name": "ppt"
+  },
+  "meta": {
+    "game": "CSGO/CS2",
+    "generatedAt": "2026-01-17T00:00:00Z",
+    "defaultOdds": {
+      "blue": 0.7992,
+      "purple": 0.1598,
+      "pink": 0.032,
+      "red": 0.0064,
+      "gold": 0.0026
+    },
+    "defaultStatTrakRate": 0.1
+  },
+  "case": {
+    "id": "prisma-case",
+    "name": "Prisma Case",
+    "caseType": "weapon_case",
+    "supportsStatTrak": true,
+    "statTrakRate": 0.1,
+    "sources": [
+      "https://counterstrike.fandom.com/wiki/Prisma_Case",
+      "https://stash.clash.gg/case/274/Prisma-Case",
+      "https://csgoskins.gg/containers/prisma-case",
+      "https://wiki.cs.money/cases/prisma-case"
+    ],
+    "notes": [
+      "Tier Odds Use Default Probabilities; Item Weights Are Evenly Distributed Within Each Tier And Knife Pool Is Expanded To Doppler Variants."
+    ],
+    "oddsWeights": {
+      "blue": 799200000000,
+      "purple": 159800000000,
+      "pink": 32000000000,
+      "red": 6400000000,
+      "gold": 2600000000
+    },
+    "tiers": {
+      "blue": [
+        {
+          "itemId": "ak-47-uncharted",
+          "displayName": "AK-47 | Uncharted",
+          "category": "rifle",
+          "weapon": "AK-47",
+          "skin": "Uncharted",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--ak-47-uncharted.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--ak-47-uncharted--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--ak-47-uncharted--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--ak-47-uncharted--04.png"
+          ]
+        },
+        {
+          "itemId": "galil-ar-akoben",
+          "displayName": "Galil AR | Akoben",
+          "category": "rifle",
+          "weapon": "Galil AR",
+          "skin": "Akoben",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--galil-ar-akoben.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--galil-ar-akoben--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--galil-ar-akoben--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--galil-ar-akoben--04.png"
+          ]
+        },
+        {
+          "itemId": "mac-10-whitefish",
+          "displayName": "MAC-10 | Whitefish",
+          "category": "smg",
+          "weapon": "MAC-10",
+          "skin": "Whitefish",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428572,
+            "nonStatTrak": 102754285715,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428572000000",
+            "nonStatTrak": "0.102754285715000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mac-10-whitefish.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mac-10-whitefish--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mac-10-whitefish--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mac-10-whitefish--04.png"
+          ]
+        },
+        {
+          "itemId": "mp7-mischief",
+          "displayName": "MP7 | Mischief",
+          "category": "smg",
+          "weapon": "MP7",
+          "skin": "Mischief",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mp7-mischief.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mp7-mischief--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mp7-mischief--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--mp7-mischief--04.png"
+          ]
+        },
+        {
+          "itemId": "famas-crypsis",
+          "displayName": "FAMAS | Crypsis",
+          "category": "rifle",
+          "weapon": "FAMAS",
+          "skin": "Crypsis",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--famas-crypsis.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--famas-crypsis--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--famas-crypsis--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--famas-crypsis--04.png"
+          ]
+        },
+        {
+          "itemId": "p250-verdigris",
+          "displayName": "P250 | Verdigris",
+          "category": "pistol",
+          "weapon": "P250",
+          "skin": "Verdigris",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p250-verdigris.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p250-verdigris--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p250-verdigris--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p250-verdigris--04.png"
+          ]
+        },
+        {
+          "itemId": "p90-off-world",
+          "displayName": "P90 | Off World",
+          "category": "smg",
+          "weapon": "P90",
+          "skin": "Off World",
+          "variant": "None",
+          "rarity": "mil-spec",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Mil-Spec Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 114171428571,
+            "nonStatTrak": 102754285714,
+            "statTrak": 11417142857
+          },
+          "probs": {
+            "base": "0.114171428571000000",
+            "nonStatTrak": "0.102754285714000000",
+            "statTrak": "0.011417142857000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p90-off-world.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p90-off-world--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p90-off-world--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--mil-spec--p90-off-world--04.png"
+          ]
+        }
+      ],
+      "purple": [
+        {
+          "itemId": "awp-atheris",
+          "displayName": "AWP | Atheris",
+          "category": "sniper-rifle",
+          "weapon": "AWP",
+          "skin": "Atheris",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Restricted Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--awp-atheris.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--awp-atheris--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--awp-atheris--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--awp-atheris--04.png"
+          ]
+        },
+        {
+          "itemId": "desert-eagle-light-rail",
+          "displayName": "Desert Eagle | Light Rail",
+          "category": "pistol",
+          "weapon": "Desert Eagle",
+          "skin": "Light Rail",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Restricted Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--desert-eagle-light-rail.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--desert-eagle-light-rail--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--desert-eagle-light-rail--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--desert-eagle-light-rail--04.png"
+          ]
+        },
+        {
+          "itemId": "tec-9-bamboozle",
+          "displayName": "Tec-9 | Bamboozle",
+          "category": "pistol",
+          "weapon": "Tec-9",
+          "skin": "Bamboozle",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Restricted Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--tec-9-bamboozle.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--tec-9-bamboozle--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--tec-9-bamboozle--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--tec-9-bamboozle--04.png"
+          ]
+        },
+        {
+          "itemId": "ump-45-moonrise",
+          "displayName": "UMP-45 | Moonrise",
+          "category": "smg",
+          "weapon": "UMP-45",
+          "skin": "Moonrise",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Restricted Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--ump-45-moonrise.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--ump-45-moonrise--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--ump-45-moonrise--03.png"
+          ]
+        },
+        {
+          "itemId": "mp5-sd-gauss",
+          "displayName": "MP5-SD | Gauss",
+          "category": "smg",
+          "weapon": "MP5-SD",
+          "skin": "Gauss",
+          "variant": "None",
+          "rarity": "restricted",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Restricted Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 31960000000,
+            "nonStatTrak": 28764000000,
+            "statTrak": 3196000000
+          },
+          "probs": {
+            "base": "0.031960000000000000",
+            "nonStatTrak": "0.028764000000000000",
+            "statTrak": "0.003196000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--mp5-sd-gauss.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--mp5-sd-gauss--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--mp5-sd-gauss--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--restricted--mp5-sd-gauss--04.png"
+          ]
+        }
+      ],
+      "pink": [
+        {
+          "itemId": "aug-momentum",
+          "displayName": "AUG | Momentum",
+          "category": "rifle",
+          "weapon": "AUG",
+          "skin": "Momentum",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Classified Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--aug-momentum.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--aug-momentum--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--aug-momentum--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--aug-momentum--04.png"
+          ]
+        },
+        {
+          "itemId": "xm1014-incinegator",
+          "displayName": "XM1014 | Incinegator",
+          "category": "shotgun",
+          "weapon": "XM1014",
+          "skin": "Incinegator",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Classified Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 10666666667,
+            "nonStatTrak": 9600000000,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666667000000",
+            "nonStatTrak": "0.009600000000000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--xm1014-incinegator.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--xm1014-incinegator--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--xm1014-incinegator--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--xm1014-incinegator--04.png"
+          ]
+        },
+        {
+          "itemId": "r8-revolver-skull-crusher",
+          "displayName": "R8 Revolver | Skull Crusher",
+          "category": "pistol",
+          "weapon": "R8 Revolver",
+          "skin": "Skull Crusher",
+          "variant": "None",
+          "rarity": "classified",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Classified Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 10666666666,
+            "nonStatTrak": 9599999999,
+            "statTrak": 1066666667
+          },
+          "probs": {
+            "base": "0.010666666666000000",
+            "nonStatTrak": "0.009599999999000000",
+            "statTrak": "0.001066666667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--r8-revolver-skull-crusher.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--r8-revolver-skull-crusher--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--classified--r8-revolver-skull-crusher--03.png"
+          ]
+        }
+      ],
+      "red": [
+        {
+          "itemId": "m4a4-the-emperor",
+          "displayName": "M4A4 | The Emperor",
+          "category": "rifle",
+          "weapon": "M4A4",
+          "skin": "The Emperor",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Covert Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--m4a4-the-emperor.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--m4a4-the-emperor--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--m4a4-the-emperor--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--m4a4-the-emperor--04.png"
+          ]
+        },
+        {
+          "itemId": "five-seven-angry-mob",
+          "displayName": "Five-SeveN | Angry Mob",
+          "category": "pistol",
+          "weapon": "Five-SeveN",
+          "skin": "Angry Mob",
+          "variant": "None",
+          "rarity": "covert",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Covert Item In Prisma Case On stash.clash.gg.",
+          "weights": {
+            "base": 3200000000,
+            "nonStatTrak": 2880000000,
+            "statTrak": 320000000
+          },
+          "probs": {
+            "base": "0.003200000000000000",
+            "nonStatTrak": "0.002880000000000000",
+            "statTrak": "0.000320000000000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--five-seven-angry-mob.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--five-seven-angry-mob--02.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--five-seven-angry-mob--03.png",
+            "Assets/Cases/Prisma-Case/Weapons/prisma-case--covert--five-seven-angry-mob--04.png"
+          ]
+        }
+      ]
+    },
+    "goldPool": {
+      "poolId": "prisma-case-knife-pool",
+      "name": "Prisma Case Chroma Knife Pool",
+      "category": "knife_pool",
+      "sources": [
+        "https://csgoskins.gg/containers/prisma-case/specials",
+        "https://stash.clash.gg/case/274/Prisma-Case?Knives=1",
+        "https://wiki.cs.money/cases/prisma-case/knives"
+      ],
+      "items": [
+        {
+          "itemId": "ursus-knife-damascus-steel",
+          "displayName": "★ Ursus Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-damascus-steel--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-damascus-steel--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-damascus-steel--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-phase-1",
+          "displayName": "★ Ursus Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-1--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-phase-2",
+          "displayName": "★ Ursus Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-2--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-phase-3",
+          "displayName": "★ Ursus Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-3--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-phase-4",
+          "displayName": "★ Ursus Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-phase-4--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-ruby",
+          "displayName": "★ Ursus Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-ruby--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-sapphire",
+          "displayName": "★ Ursus Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-sapphire--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-doppler-black-pearl",
+          "displayName": "★ Ursus Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-doppler-black-pearl--09.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-marble-fade",
+          "displayName": "★ Ursus Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-marble-fade--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-rust-coat",
+          "displayName": "★ Ursus Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-rust-coat--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-rust-coat--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-tiger-tooth",
+          "displayName": "★ Ursus Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-tiger-tooth--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "ursus-knife-ultraviolet",
+          "displayName": "★ Ursus Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Ursus Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-ultraviolet--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-ultraviolet--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-ultraviolet--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--ursus-knife-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-damascus-steel",
+          "displayName": "★ Navaja Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-damascus-steel--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-damascus-steel--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-damascus-steel--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-phase-1",
+          "displayName": "★ Navaja Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-1--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-phase-2",
+          "displayName": "★ Navaja Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-2--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-phase-3",
+          "displayName": "★ Navaja Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-3--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-phase-4",
+          "displayName": "★ Navaja Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-phase-4--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-ruby",
+          "displayName": "★ Navaja Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-ruby--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-sapphire",
+          "displayName": "★ Navaja Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-sapphire--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-doppler-black-pearl",
+          "displayName": "★ Navaja Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-doppler-black-pearl--09.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-marble-fade",
+          "displayName": "★ Navaja Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-marble-fade--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-rust-coat",
+          "displayName": "★ Navaja Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-rust-coat--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-rust-coat--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-tiger-tooth",
+          "displayName": "★ Navaja Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-tiger-tooth--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "navaja-knife-ultraviolet",
+          "displayName": "★ Navaja Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Navaja Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-ultraviolet--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-ultraviolet--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-ultraviolet--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--navaja-knife-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-damascus-steel",
+          "displayName": "★ Stiletto Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-damascus-steel--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-damascus-steel--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-damascus-steel--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-phase-1",
+          "displayName": "★ Stiletto Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-1--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-phase-2",
+          "displayName": "★ Stiletto Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-2--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-phase-3",
+          "displayName": "★ Stiletto Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-3--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-phase-4",
+          "displayName": "★ Stiletto Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-phase-4--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-ruby",
+          "displayName": "★ Stiletto Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-ruby--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-sapphire",
+          "displayName": "★ Stiletto Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-sapphire--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-doppler-black-pearl",
+          "displayName": "★ Stiletto Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--10.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-doppler-black-pearl--11.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-marble-fade",
+          "displayName": "★ Stiletto Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-marble-fade--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-rust-coat",
+          "displayName": "★ Stiletto Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166667,
+            "nonStatTrak": 48750000,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166667000000",
+            "nonStatTrak": "0.000048750000000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-rust-coat--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-rust-coat--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-tiger-tooth",
+          "displayName": "★ Stiletto Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-tiger-tooth--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "stiletto-knife-ultraviolet",
+          "displayName": "★ Stiletto Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Stiletto Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-ultraviolet--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-ultraviolet--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-ultraviolet--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--stiletto-knife-ultraviolet--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-damascus-steel",
+          "displayName": "★ Talon Knife | Damascus Steel",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Damascus Steel",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-damascus-steel.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-damascus-steel--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-damascus-steel--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-damascus-steel--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-damascus-steel--05.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-phase-1",
+          "displayName": "★ Talon Knife | Doppler (Phase 1)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Phase 1",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-1--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-phase-2",
+          "displayName": "★ Talon Knife | Doppler (Phase 2)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Phase 2",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-2--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-phase-3",
+          "displayName": "★ Talon Knife | Doppler (Phase 3)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Phase 3",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-3--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-phase-4",
+          "displayName": "★ Talon Knife | Doppler (Phase 4)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Phase 4",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-phase-4--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-ruby",
+          "displayName": "★ Talon Knife | Doppler (Ruby)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Ruby",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-ruby--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-sapphire",
+          "displayName": "★ Talon Knife | Doppler (Sapphire)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Sapphire",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-sapphire--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-doppler-black-pearl",
+          "displayName": "★ Talon Knife | Doppler (Black Pearl)",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Doppler",
+          "variant": "Black Pearl",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--05.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--06.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--07.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--08.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--09.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-doppler-black-pearl--10.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-marble-fade",
+          "displayName": "★ Talon Knife | Marble Fade",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Marble Fade",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-marble-fade.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-marble-fade--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-marble-fade--03.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-rust-coat",
+          "displayName": "★ Talon Knife | Rust Coat",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Rust Coat",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-rust-coat.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-rust-coat--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-rust-coat--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-rust-coat--04.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-tiger-tooth",
+          "displayName": "★ Talon Knife | Tiger Tooth",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Tiger Tooth",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-tiger-tooth.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-tiger-tooth--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-tiger-tooth--03.png"
+          ]
+        },
+        {
+          "itemId": "talon-knife-ultraviolet",
+          "displayName": "★ Talon Knife | Ultraviolet",
+          "category": "knife",
+          "weapon": "Talon Knife",
+          "skin": "Ultraviolet",
+          "variant": "None",
+          "rarity": "rare-special",
+          "statTrakEligible": true,
+          "verified": true,
+          "confidence": "High",
+          "rationale": "Listed As A Prisma Case Rare Special Knife Variant On csgoskins.gg And CS.MONEY.",
+          "weights": {
+            "base": 54166666,
+            "nonStatTrak": 48749999,
+            "statTrak": 5416667
+          },
+          "probs": {
+            "base": "0.000054166666000000",
+            "nonStatTrak": "0.000048749999000000",
+            "statTrak": "0.000005416667000000"
+          },
+          "image": "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-ultraviolet.png",
+          "imageAlternates": [
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-ultraviolet--02.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-ultraviolet--03.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-ultraviolet--04.png",
+            "Assets/Cases/Prisma-Case/Knives/prisma-case--rare-special--talon-knife-ultraviolet--05.png"
+          ]
+        }
+      ]
+    },
+    "image": "Assets/Cases/Prisma-Case/Icons/prisma-case--icon.png"
+  },
+  "audit": {
+    "tierCounts": {
+      "blue": 7,
+      "purple": 5,
+      "pink": 3,
+      "red": 2,
+      "gold": 48
+    },
+    "weightSums": {
+      "totalCaseWeight": 1000000000000,
+      "expectedTotalCaseWeight": 1000000000000
+    },
+    "warnings": [
+      "StatTrak Weights Are Derived Per Item Using A 10% Rate With Integer Rounding; Doppler Variants Are Expanded Into Phase 1-4 Plus Ruby/Sapphire/Black Pearl."
+    ]
+  }
+}
